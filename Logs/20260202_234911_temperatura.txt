@@ -1,0 +1,10 @@
+Temperatura en Manta, Ecuador
+
+--- Día actual (2026-02-02) ---
+Máxima: 27 °C | Mínima: 23 °C
+
+--- Pronóstico día siguiente (2026-02-03) ---
+Máxima: 29 °C | Mínima: 24 °C
+
+Generado: 02/02/2026 23:49:11
+Fuente: Open-Meteo

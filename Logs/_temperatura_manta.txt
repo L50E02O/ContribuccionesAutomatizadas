@@ -1,9 +1,0 @@
-Posible temperatura para el día siguiente en Manta, Ecuador
-
-Fecha del pronóstico: undefined
-
-Temperatura máxima: undefined °C
-Temperatura mínima: undefined °C
-
-Generado: undefined
-Fuente: Open-Meteo

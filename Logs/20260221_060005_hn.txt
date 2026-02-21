@@ -1,0 +1,8 @@
+Noticias destacadas de Hacker News
+Generado: 21/02/2026 06:00:05
+
+1. [Keep Android Open](https://f-droid.org/2026/02/20/twif.html) (1538 pts)
+2. [Andrej Karpathy talks about "Claws"](https://simonwillison.net/2026/Feb/21/claws/) (56 pts)
+3. [Acme Weather](https://acmeweather.com/blog/introducing-acme-weather) (55 pts)
+4. [Turn Dependabot off](https://words.filippo.io/dependabot/) (474 pts)
+5. [I found a Vulnerability. They found a Lawyer](https://dixken.de/blog/i-found-a-vulnerability-they-found-a-lawyer) (614 pts)

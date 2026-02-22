@@ -1,0 +1,8 @@
+Noticias destacadas de Hacker News
+Generado: 22/02/2026 06:00:04
+
+1. [How I use Claude Code: Separation of planning and execution](https://boristane.com/blog/how-i-use-claude-code/) (565 pts)
+2. [Show HN: Elecxzy – A lightweight, Lisp-free Emacs-like editor in Electron](https://github.com/kurouna/elecxzy) (8 pts)
+3. [Japanese Woodblock Print Search](https://ukiyo-e.org/) (106 pts)
+4. [Back to FreeBSD: Part 1](https://hypha.pub/back-to-freebsd-part-1) (30 pts)
+5. [How far back in time can you understand English?](https://www.deadlanguagesociety.com/p/how-far-back-in-time-understand-english) (550 pts)

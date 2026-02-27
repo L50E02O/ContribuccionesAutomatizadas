@@ -1,0 +1,8 @@
+Noticias destacadas de Hacker News
+Generado: 27/02/2026 06:00:03
+
+1. [Statement from Dario Amodei on our discussions with the Department of War](https://www.anthropic.com/news/statement-department-of-war) (1947 pts)
+2. [The Hunt for Dark Breakfast](https://moultano.wordpress.com/2026/02/22/the-hunt-for-dark-breakfast/) (240 pts)
+3. [The normalization of corruption in organizations (2003) [pdf]](https://gwern.net/doc/sociology/2003-ashforth.pdf) (68 pts)
+4. [Dyson settles forced labour suit in landmark UK case](https://www.bbc.com/news/articles/cddnry8dnl7o) (8 pts)
+5. [An interactive intro to quadtrees](https://growingswe.com/blog/quadtrees) (14 pts)

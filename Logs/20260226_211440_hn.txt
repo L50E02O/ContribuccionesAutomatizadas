@@ -1,0 +1,8 @@
+Noticias destacadas de Hacker News
+Generado: 26/02/2026 21:14:40
+
+1. [Statement from Dario Amodei on Our Discussions with the Department of War](https://www.anthropic.com/news/statement-department-of-war) (881 pts)
+2. [Layoffs at Block](https://twitter.com/jack/status/2027129697092731343) (458 pts)
+3. [AirSnitch: Demystifying and breaking client isolation in Wi-Fi networks [pdf]](https://www.ndss-symposium.org/wp-content/uploads/2026-f1282-paper.pdf) (321 pts)
+4. [What Claude Code Chooses](https://amplifying.ai/research/claude-code-picks) (240 pts)
+5. [Will vibe coding end like the maker movement?](https://read.technically.dev/p/vibe-coding-and-the-maker-movement) (318 pts)

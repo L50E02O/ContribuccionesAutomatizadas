@@ -1,0 +1,8 @@
+Noticias destacadas de Hacker News
+Generado: 02/03/2026 06:00:04
+
+1. [Motorola announces a partnership with GrapheneOS Foundation](https://motorolanews.com/motorola-three-new-b2b-solutions-at-mwc-2026/) (622 pts)
+2. [/e/OS is a complete "deGoogled", mobile ecosystem](https://e.foundation/e-os/) (112 pts)
+3. [Making Video Games in 2025 (without an engine)](https://www.noelberry.ca/posts/making_games_in_2025/) (151 pts)
+4. [Show HN: Omni – Open-source workplace search and chat, built on Postgres](https://github.com/getomnico/omni) (38 pts)
+5. [How to talk to anyone and why you should](https://www.theguardian.com/lifeandstyle/2026/feb/24/stranger-secret-how-to-talk-to-anyone-why-you-should) (70 pts)

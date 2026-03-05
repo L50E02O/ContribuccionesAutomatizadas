@@ -1,0 +1,8 @@
+Noticias destacadas de Hacker News
+Generado: 05/03/2026 06:00:04
+
+1. [Nvidia PersonaPlex 7B on Apple Silicon: Full-Duplex Speech-to-Speech in Swift](https://blog.ivan.digital/nvidia-personaplex-7b-on-apple-silicon-full-duplex-speech-to-speech-in-native-swift-with-mlx-0aa5276f2e23) (104 pts)
+2. [Google Workspace CLI](https://github.com/googleworkspace/cli) (605 pts)
+3. [The L in "LLM" Stands for Lying](https://acko.net/blog/the-l-in-llm-stands-for-lying/) (210 pts)
+4. [Relicensing with AI-Assisted Rewrite](https://tuananh.net/2026/03/05/relicensing-with-ai-assisted-rewrite/) (135 pts)
+5. [Smalltalk's Browser: Unbeatable, yet Not Enough](https://blog.lorenzano.eu/smalltalks-browser-unbeatable-yet-not-enough/) (42 pts)

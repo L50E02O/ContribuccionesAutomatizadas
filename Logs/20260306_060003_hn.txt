@@ -1,0 +1,8 @@
+Noticias destacadas de Hacker News
+Generado: 06/03/2026 06:00:03
+
+1. [System76 on Age Verification Laws](https://blog.system76.com/post/system76-on-age-verification/) (393 pts)
+2. [How Much Money Jeff Bezos Made Since You Started Reading This Page](https://bezoscalculator.com/) (19 pts)
+3. [GPL upgrades via section 14 proxy delegation](https://runxiyu.org/comp/gplproxy/) (44 pts)
+4. [LibreSprite – open-source pixel art editor](https://libresprite.github.io/) (21 pts)
+5. [GPT-5.4](https://openai.com/index/introducing-gpt-5-4/) (857 pts)

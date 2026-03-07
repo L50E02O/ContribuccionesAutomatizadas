@@ -1,0 +1,8 @@
+Noticias destacadas de Hacker News
+Generado: 07/03/2026 06:00:05
+
+1. [Plasma Bigscreen – 10-foot interface for KDE plasma](https://plasma-bigscreen.org) (444 pts)
+2. [Tell HN: I'm 60 years old. Claude Code has re-ignited a passion](https://news.ycombinator.com/item?id=47282777) (473 pts)
+3. [UUID package coming to Go standard library](https://github.com/golang/go/issues/62026) (207 pts)
+4. [Show HN: Tanstaafl – Pay-to-inbox email on Bitcoin Lightning](https://tanstaafl.email) (8 pts)
+5. [QGIS 4.0](https://changelog.qgis.org/en/version/4.0/) (62 pts)

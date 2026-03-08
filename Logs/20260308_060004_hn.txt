@@ -1,0 +1,8 @@
+Noticias destacadas de Hacker News
+Generado: 08/03/2026 06:00:04
+
+1. [SWE-CI: Evaluating Agent Capabilities in Maintaining Codebases via CI](https://arxiv.org/abs/2603.03823) (52 pts)
+2. [Rijksmuseum researchers discover new painting by Rembrandt van Rijn](https://www.rijksmuseum.nl/en/press/press-releases/rijksmuseum-researchers-discover-new-painting-by-rembrandt-van-rijn) (31 pts)
+3. [Notes on Writing WASM](https://notes.brooklynzelenka.com/Blog/Notes-on-Writing-Wasm) (12 pts)
+4. [Cloud VM benchmarks 2026](https://devblog.ecuadors.net/cloud-vm-benchmarks-2026-performance-price-1i1m.html) (251 pts)
+5. [Show HN: Curiosity – DIY 6" Newtonian Reflector Telescope](https://curiosity-telescope.vercel.app/) (28 pts)

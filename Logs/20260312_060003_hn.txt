@@ -1,0 +1,8 @@
+Noticias destacadas de Hacker News
+Generado: 12/03/2026 06:00:03
+
+1. [3D-Knitting: The Ultimate Guide](https://www.oliver-charles.com/pages/3d-knitting) (67 pts)
+2. [SBCL: A Sanely-Bootstrappable Common Lisp (2008) [pdf]](https://research.gold.ac.uk/id/eprint/2336/1/sbcl.pdf) (49 pts)
+3. [Show HN: s@: decentralized social networking over static sites](http://satproto.org/) (295 pts)
+4. [Returning to Rails in 2026](https://www.markround.com/blog/2026/03/05/returning-to-rails-in-2026/) (143 pts)
+5. [Avoiding Trigonometry (2013)](https://iquilezles.org/articles/noacos/) (25 pts)

@@ -1,0 +1,8 @@
+Noticias destacadas de Hacker News
+Generado: 13/03/2026 06:00:04
+
+1. [Bucketsquatting is (finally) dead](https://onecloudplease.com/blog/bucketsquatting-is-finally-dead) (86 pts)
+2. [Willingness to look stupid](https://sharif.io/looking-stupid) (371 pts)
+3. [Source code of Swedish e-government services has been leaked](https://darkwebinformer.com/full-source-code-of-swedens-e-government-platform-leaked-from-compromised-cgi-sverige-infrastructure/) (26 pts)
+4. [Executing programs inside transformers with exponentially faster inference](https://www.percepta.ai/blog/can-llms-be-computers) (121 pts)
+5. [Malus – Clean Room as a Service](https://malus.sh) (1289 pts)

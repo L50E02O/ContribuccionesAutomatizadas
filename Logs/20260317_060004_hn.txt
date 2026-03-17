@@ -1,0 +1,8 @@
+Noticias destacadas de Hacker News
+Generado: 17/03/2026 06:00:04
+
+1. [Kagi Small Web](https://kagi.com/smallweb/) (102 pts)
+2. [Kagi Translate now supports LinkedIn Speak as an output language](https://translate.kagi.com/?from=en&to=LinkedIn+speak) (617 pts)
+3. [Leanstral: Open-source agent for trustworthy coding and formal proof engineering](https://mistral.ai/news/leanstral) (574 pts)
+4. [The unlikely story of Teardown Multiplayer](https://blog.voxagon.se/2026/03/13/teardown-multiplayer.html) (100 pts)
+5. [Building a Shell](https://healeycodes.com/building-a-shell) (13 pts)

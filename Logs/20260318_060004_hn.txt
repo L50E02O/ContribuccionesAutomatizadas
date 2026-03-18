@@ -1,0 +1,8 @@
+Noticias destacadas de Hacker News
+Generado: 18/03/2026 06:00:04
+
+1. [Rob Pike's 5 Rules of Programming](https://www.cs.unc.edu/~stotts/COMP590-059-f24/robsrules.html) (35 pts)
+2. [JPEG Compression](https://www.sophielwang.com/blog/jpeg) (218 pts)
+3. [Kagi is contemplating the removal of the assistant from its professional tier](https://kagifeedback.org/d/10116-kagi-assistant-standalone-subscription) (12 pts)
+4. [Write up of my homebrew CPU build](https://willwarren.com/2026/03/12/building-my-own-cpu-part-3-from-simulation-to-hardware/) (79 pts)
+5. [Mistral AI Releases Forge](https://mistral.ai/news/forge) (482 pts)

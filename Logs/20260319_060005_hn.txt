@@ -1,0 +1,8 @@
+Noticias destacadas de Hacker News
+Generado: 19/03/2026 06:00:05
+
+1. [2% of ICML papers desk rejected because the authors used LLM in their reviews](https://blog.icml.cc/2026/03/18/on-violations-of-llm-review-policies/) (48 pts)
+2. [Conway's Game of Life, in real life](https://lcamtuf.substack.com/p/conways-game-of-life-in-real-life) (150 pts)
+3. [Nvidia greenboost: transparently extend GPU VRAM using system RAM/NVMe](https://gitlab.com/IsolatedOctopi/nvidia_greenboost) (346 pts)
+4. [Warranty Void If Regenerated](https://nearzero.software/p/warranty-void-if-regenerated) (356 pts)
+5. [Stdwin: Standard window interface by Guido Van Rossum [pdf]](https://ir.cwi.nl/pub/5998/5998D.pdf) (26 pts)

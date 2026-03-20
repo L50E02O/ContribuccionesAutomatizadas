@@ -1,0 +1,8 @@
+Noticias destacadas de Hacker News
+Generado: 20/03/2026 06:00:04
+
+1. [ArXiv Declares Independence from Cornell](https://www.science.org/content/article/arxiv-pioneering-preprint-server-declares-independence-cornell) (324 pts)
+2. [Flash-KMeans: Fast and Memory-Efficient Exact K-Means](https://arxiv.org/abs/2603.09229) (18 pts)
+3. [Google details new 24-hour process to sideload unverified Android apps](https://arstechnica.com/gadgets/2026/03/google-details-new-24-hour-process-to-sideload-unverified-android-apps/) (869 pts)
+4. [Drawvg Filter for FFmpeg](https://ayosec.github.io/ffmpeg-drawvg/) (66 pts)
+5. [Cursor Composer 2 is just Kimi K2.5 with RL](https://twitter.com/fynnso/status/2034706304875602030) (76 pts)

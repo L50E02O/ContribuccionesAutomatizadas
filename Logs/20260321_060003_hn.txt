@@ -1,0 +1,8 @@
+Noticias destacadas de Hacker News
+Generado: 21/03/2026 06:00:03
+
+1. [OpenCode – Open source AI coding agent](https://opencode.ai/) (833 pts)
+2. [Mamba-3](https://www.together.ai/blog/mamba-3) (129 pts)
+3. [FFmpeg 101 (2024)](https://blogs.igalia.com/llepage/ffmpeg-101/) (89 pts)
+4. [A Japanese glossary of chopsticks faux pas (2022)](https://www.nippon.com/en/japan-data/h01362/) (283 pts)
+5. [Molly Guard](https://bookofjoe2.blogspot.com/2026/02/molly-guard.html) (113 pts)

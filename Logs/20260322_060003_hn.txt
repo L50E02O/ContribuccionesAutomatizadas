@@ -1,0 +1,8 @@
+Noticias destacadas de Hacker News
+Generado: 22/03/2026 06:00:03
+
+1. [Hormuz Minesweeper – Are you tired of winning?](https://hormuz.pythonic.ninja/) (97 pts)
+2. [The three pillars of JavaScript bloat](https://43081j.com/2026/03/three-pillars-of-javascript-bloat) (308 pts)
+3. [My first patch to the Linux kernel](https://pooladkhay.com/posts/first-kernel-patch/) (107 pts)
+4. [25 Years of Eggs](https://www.john-rush.com/posts/eggs-25-years-20260219.html) (18 pts)
+5. [Cross-Model Void Convergence: GPT-5.2 and Claude Opus 4.6 Deterministic Silence](https://zenodo.org/records/18976656) (26 pts)

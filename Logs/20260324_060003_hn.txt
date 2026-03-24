@@ -1,0 +1,8 @@
+Noticias destacadas de Hacker News
+Generado: 24/03/2026 06:00:03
+
+1. [Microsoft's "Fix" for Windows 11: Flowers After the Beating](https://www.sambent.com/microsofts-plan-to-fix-windows-11-is-gaslighting/) (90 pts)
+2. [Opera: Rewind The Web to 1996 (Opera at 30)](https://www.web-rewind.com) (51 pts)
+3. [Box of Secrets: Discreetly modding an apartment intercom to work with Apple Home](https://www.jackhogan.me/blog/box-of-secrets/) (151 pts)
+4. [Log File Viewer for the Terminal](https://lnav.org/) (145 pts)
+5. [Show HN: ProofShot – Give AI coding agents eyes to verify the UI they build](https://proofshot.argil.io/) (44 pts)

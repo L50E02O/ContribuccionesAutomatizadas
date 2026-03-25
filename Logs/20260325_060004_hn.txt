@@ -1,0 +1,8 @@
+Noticias destacadas de Hacker News
+Generado: 25/03/2026 06:00:04
+
+1. [I tried to prove I'm not AI. My aunt wasn't convinced](https://www.bbc.com/future/article/20260324-i-tried-to-prove-im-not-an-ai-deepfake) (20 pts)
+2. [Meta told to pay $375M for misleading users over child safety](https://www.bbc.com/news/articles/cql75dn07n2o) (48 pts)
+3. [TurboQuant: Redefining AI efficiency with extreme compression](https://research.google/blog/turboquant-redefining-ai-efficiency-with-extreme-compression/) (186 pts)
+4. [VitruvianOS – Desktop Linux Inspired by the BeOS](https://v-os.dev) (159 pts)
+5. [Goodbye to Sora](https://twitter.com/soraofficialapp/status/2036532795984715896) (748 pts)

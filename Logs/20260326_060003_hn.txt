@@ -1,0 +1,8 @@
+Noticias destacadas de Hacker News
+Generado: 26/03/2026 06:00:03
+
+1. [Personal Encyclopedias](https://whoami.wiki/blog/personal-encyclopedias) (217 pts)
+2. [Swift 6.3](https://www.swift.org/blog/swift-6.3-released/) (76 pts)
+3. [Show HN: Relay – The open-source Claude Cowork for OpenClaw](https://github.com/SeventeenLabs/relay) (8 pts)
+4. [Running Tesla Model 3's computer on my desk using parts from crashed cars](https://bugs.xdavidhu.me/tesla/2026/03/23/running-tesla-model-3s-computer-on-my-desk-using-parts-from-crashed-cars/) (645 pts)
+5. [Obsolete Sounds](https://citiesandmemory.com/obsolete-sounds/) (34 pts)

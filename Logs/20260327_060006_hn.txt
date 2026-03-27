@@ -1,0 +1,8 @@
+Noticias destacadas de Hacker News
+Generado: 27/03/2026 06:00:06
+
+1. [Hold on to Your Hardware](https://xn--gckvb8fzb.com/hold-on-to-your-hardware/) (33 pts)
+2. [A Faster Alternative to Jq](https://micahkepe.com/blog/jsongrep/) (142 pts)
+3. [Schedule tasks on the web](https://code.claude.com/docs/en/web-scheduled-tasks) (152 pts)
+4. [Should QA Exist](https://www.rubick.com/should-qa-exist/) (9 pts)
+5. [The European AllSky7 fireball network](https://www.allsky7.net/#archive) (58 pts)

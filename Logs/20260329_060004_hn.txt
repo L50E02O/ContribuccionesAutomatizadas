@@ -1,0 +1,8 @@
+Noticias destacadas de Hacker News
+Generado: 29/03/2026 06:00:04
+
+1. [Founder of GitLab battles cancer by founding companies](https://sytse.com/cancer/) (1095 pts)
+2. [Technology: The (nearly) perfect USB cable tester does exist](https://blog.literarily-starved.com/2026/02/technology-the-nearly-perfect-usb-cable-tester-does-exist/) (76 pts)
+3. [AI overly affirms users asking for personal advice](https://news.stanford.edu/stories/2026/03/ai-advice-sycophantic-models-research) (657 pts)
+4. [CSS is DOOMed](https://nielsleenheer.com/articles/2026/css-is-doomed-rendering-doom-in-3d-with-css/) (354 pts)
+5. [Alzheimer's disease mortality among taxi and ambulance drivers (2024)](https://www.bmj.com/content/387/bmj-2024-082194) (133 pts)

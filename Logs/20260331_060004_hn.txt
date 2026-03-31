@@ -1,0 +1,8 @@
+Noticias destacadas de Hacker News
+Generado: 31/03/2026 06:00:04
+
+1. [Axios compromised on NPM – Malicious versions drop remote access trojan](https://www.stepsecurity.io/blog/axios-compromised-on-npm-malicious-versions-drop-remote-access-trojan) (872 pts)
+2. [Ollama is now powered by MLX on Apple Silicon in preview](https://ollama.com/blog/mlx) (301 pts)
+3. [7,655 Ransomware Claims in One Year: Group, Sector, and Country Breakdown](https://ciphercue.com/blog/7655-ransomware-claims-march-2025-to-march-2026) (12 pts)
+4. [Artemis II is not safe to fly](https://idlewords.com/2026/03/artemis_ii_is_not_safe_to_fly.htm) (370 pts)
+5. [Claude Code's source code has been leaked via a map file in their NPM registry](https://twitter.com/Fried_rice/status/2038894956459290963) (210 pts)

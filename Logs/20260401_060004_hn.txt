@@ -1,0 +1,8 @@
+Noticias destacadas de Hacker News
+Generado: 01/04/2026 06:00:04
+
+1. [Claude Code Unpacked : A visual guide](https://ccunpacked.dev/) (457 pts)
+2. [CERN levels up with new superconducting karts](https://home.cern/news/news/engineering/cern-levels-new-superconducting-karts) (140 pts)
+3. [Show HN: CLI to order groceries via reverse-engineered REWE API (Haskell)](https://github.com/yannick-cw/korb) (89 pts)
+4. [What the Claude Code Leak Means for Regulated Industries](https://systima.ai/blog/claude-code-leak-compliance-implications) (9 pts)
+5. [Intuiting Pratt Parsing](https://louis.co.nz/2026/03/26/pratt-parsing.html) (15 pts)

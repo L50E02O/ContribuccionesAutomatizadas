@@ -1,0 +1,8 @@
+Noticias destacadas de Hacker News
+Generado: 02/04/2026 06:00:06
+
+1. [IBM Announces Strategic Collaboration with Arm](https://newsroom.ibm.com/2026-04-02-ibm-announces-strategic-collaboration-with-arm-to-shape-the-future-of-enterprise-computing) (72 pts)
+2. [Men are ditching TV for YouTube as AI usage and social media fatigue grow](https://www.ofcom.org.uk/media-use-and-attitudes/media-habits-adults/passive-social-media-use-ai-companionship-and-online-side-hustles-uk-adults-media-and-online-lives-revealed) (16 pts)
+3. [Bringing Clojure programming to Enterprise (2021)](https://blogit.michelin.io/clojure-programming/) (53 pts)
+4. [Artemis II Launch Day Updates](https://www.nasa.gov/blogs/missions/2026/04/01/live-artemis-ii-launch-day-updates/) (937 pts)
+5. [Gone (Almost) Phishin'](https://ma.tt/2026/03/gone-almost-phishin/) (37 pts)

@@ -1,0 +1,8 @@
+Noticias destacadas de Hacker News
+Generado: 03/04/2026 06:00:04
+
+1. [Show HN: European alternatives to Google, Apple, Dropbox and 120 US apps](https://only-eu.eu/en/) (134 pts)
+2. [April 2026 TLDR Setup for Ollama and Gemma 4 26B on a Mac mini](https://gist.github.com/greenstevester/fc49b4e60a4fef9effc79066c1033ae5) (23 pts)
+3. [Show HN: Apfel – The free AI already on your Mac](https://apfel.franzai.com) (44 pts)
+4. [Google releases Gemma 4 open models](https://deepmind.google/models/gemma/gemma-4/) (1513 pts)
+5. [ESP32-S31: 320MHz 2C RV32IMAFCP+CLIC, 512KB SRAM, GbE, 802.11ax, 61 GPIO](https://www.espressif.com/en/news/ESP32_S31_Release) (58 pts)

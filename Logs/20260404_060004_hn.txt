@@ -1,0 +1,8 @@
+Noticias destacadas de Hacker News
+Generado: 04/04/2026 06:00:04
+
+1. [Tell HN: Anthropic no longer allowing Claude Code subscriptions to use OpenClaw](https://news.ycombinator.com/item?id=47633396) (737 pts)
+2. [Artemis II crew take “spectacular” image of Earth](https://www.bbc.com/news/articles/ce8jzr423p9o) (788 pts)
+3. [GitHub has DMCA'd nearly all forks of the official Claude-code repo](https://github.com/anthropics/claude-code/forks) (32 pts)
+4. [Some Unusual Trees](https://thoughts.wyounas.com/p/some-unusual-trees) (28 pts)
+5. [iNaturalist](https://www.inaturalist.org/) (435 pts)

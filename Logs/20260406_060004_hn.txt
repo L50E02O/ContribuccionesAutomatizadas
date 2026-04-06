@@ -1,0 +1,8 @@
+Noticias destacadas de Hacker News
+Generado: 06/04/2026 06:00:04
+
+1. [Age Verification as Mass Surveillance Infrastructure](https://tboteproject.com/surveillancefindings/) (19 pts)
+2. [Show HN: I built a tiny LLM to demystify how language models work](https://github.com/arman-bd/guppylm) (517 pts)
+3. [Gemma 4 on iPhone](https://apps.apple.com/nl/app/google-ai-edge-gallery/id6749645337) (659 pts)
+4. [France pulls last gold held in US for $15B gain](https://www.mining.com/france-pulls-last-gold-held-in-us-for-15b-gain/) (129 pts)
+5. [Microsoft hasn't had a coherent GUI strategy since Petzold](https://www.jsnover.com/blog/2026/03/13/microsoft-hasnt-had-a-coherent-gui-strategy-since-petzold/) (490 pts)

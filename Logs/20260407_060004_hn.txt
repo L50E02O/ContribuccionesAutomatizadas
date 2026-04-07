@@ -1,0 +1,8 @@
+Noticias destacadas de Hacker News
+Generado: 07/04/2026 06:00:04
+
+1. [Are We Idiocracy Yet?](https://idiocracy.wtf/) (135 pts)
+2. [Every GPU That Mattered](https://sheets.works/data-viz/every-gpu) (107 pts)
+3. [We found an undocumented bug in the Apollo 11 guidance computer code](https://www.juxt.pro/blog/a-bug-on-the-dark-side-of-the-moon/) (7 pts)
+4. [My Experience as a Rice Farmer](https://xd009642.github.io/2026/04/01/My-Experience-as-a-Rice-Farmer.html) (181 pts)
+5. [Blackholing My Email](https://www.johnsto.co.uk/blog/blackholing-my-email/) (10 pts)

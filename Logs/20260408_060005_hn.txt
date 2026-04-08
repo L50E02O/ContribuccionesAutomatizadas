@@ -1,0 +1,8 @@
+Noticias destacadas de Hacker News
+Generado: 08/04/2026 06:00:05
+
+1. [Veracrypt Project Update](https://sourceforge.net/p/veracrypt/discussion/general/thread/9620d7a4b3/) (337 pts)
+2. [The Git Commands I Run Before Reading Any Code](https://piechowski.io/post/git-commands-before-reading-code/) (125 pts)
+3. [I've Sold Out](https://mariozechner.at/posts/2026-04-08-ive-sold-out/) (40 pts)
+4. [Revision Demoparty 2026: Razor1911 [video]](https://www.youtube.com/watch?v=Lw4W9V57SKs&t=5716s) (190 pts)
+5. [Project Glasswing: Securing critical software for the AI era](https://www.anthropic.com/glasswing) (1315 pts)

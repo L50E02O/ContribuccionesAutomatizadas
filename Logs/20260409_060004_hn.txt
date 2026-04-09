@@ -1,0 +1,8 @@
+Noticias destacadas de Hacker News
+Generado: 09/04/2026 06:00:04
+
+1. [LittleSnitch for Linux](https://obdev.at/products/littlesnitch-linux/index.html) (785 pts)
+2. [Help Keep Thunderbird Alive](https://updates.thunderbird.net/en-US/thunderbird/140.0/apr26-1e/donate/) (85 pts)
+3. [I ported Mac OS X to the Nintendo Wii](https://bryankeller.github.io/2026/04/08/porting-mac-os-x-nintendo-wii.html) (1612 pts)
+4. [Open Source Security at Astral](https://astral.sh/blog/open-source-security-at-astral) (205 pts)
+5. [Creating the Futurescape for the Fifth Element [2019]](https://theasc.com/articles/fantastic-voyage-creating-the-futurescape-for-the-fifth-element) (29 pts)

@@ -1,0 +1,8 @@
+Noticias destacadas de Hacker News
+Generado: 10/04/2026 10:27:26
+
+1. [Mysteries of Dropbox: Testing of a Distributed Sync Service (2016) [pdf]](https://www.cis.upenn.edu/~bcpierce/papers/mysteriesofdropbox.pdf) (50 pts)
+2. [CPU-Z and HWMonitor Compromised](https://old.reddit.com/r/pcmasterrace/comments/1sh4e5l/warning_hwmonitor_163_download_on_the_official/) (65 pts)
+3. [Code is run more than read (2023)](https://olano.dev/blog/code-is-run-more-than-read/) (29 pts)
+4. [FBI used iPhone notification data to retrieve deleted Signal messages](https://9to5mac.com/2026/04/09/fbi-used-iphone-notification-data-to-retrieve-deleted-signal-messages/) (290 pts)
+5. [How NASA built Artemis II’s fault-tolerant computer](https://cacm.acm.org/news/how-nasa-built-artemis-iis-fault-tolerant-computer/) (518 pts)

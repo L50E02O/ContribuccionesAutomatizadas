@@ -1,0 +1,8 @@
+Noticias destacadas de Hacker News
+Generado: 11/04/2026 06:00:05
+
+1. [Filing the corners off my MacBooks](https://kentwalters.com/posts/corners/) (859 pts)
+2. [Optimal Strategy for Connect 4](https://2swap.github.io/WeakC4/explanation/) (50 pts)
+3. [BlueHammer abuses Windows Defender's update process to gain SYSTEM access](https://hackingpassion.com/bluehammer-windows-defender-zero-day/) (11 pts)
+4. [Starfling: A one-tap endless orbital slingshot game in a single HTML file](https://playstarfling.com) (196 pts)
+5. [1D Chess](https://rowan441.github.io/1dchess/chess.html) (834 pts)

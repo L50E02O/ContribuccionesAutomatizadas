@@ -1,0 +1,8 @@
+Noticias destacadas de Hacker News
+Generado: 13/04/2026 06:00:05
+
+1. [All elementary functions from a single binary operator](https://arxiv.org/abs/2603.21852) (444 pts)
+2. [The Economics of Software Teams: Why Most Engineering Orgs Are Flying Blind](https://www.viktorcessan.com/the-economics-of-software-teams/) (162 pts)
+3. [Show HN: I built a social media management tool in 3 weeks with Claude and Codex](https://github.com/brightbeanxyz/brightbean-studio) (7 pts)
+4. [Taking on CUDA with ROCm: 'One Step After Another'](https://www.eetimes.com/taking-on-cuda-with-rocm-one-step-after-another/) (181 pts)
+5. [DIY Soft Drinks](https://blinry.org/diy-soft-drinks/) (475 pts)

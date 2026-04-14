@@ -1,0 +1,8 @@
+Noticias destacadas de Hacker News
+Generado: 14/04/2026 06:00:04
+
+1. [DaVinci Resolve – Photo](https://www.blackmagicdesign.com/products/davinciresolve/photo) (617 pts)
+2. [Backblaze has stopped backing up your data](https://rareese.com/posts/backblaze/) (187 pts)
+3. [A new spam policy for “back button hijacking”](https://developers.google.com/search/blog/2026/04/back-button-hijacking) (388 pts)
+4. [Someone bought 30 WordPress plugins and planted a backdoor in all of them](https://anchor.host/someone-bought-30-wordpress-plugins-and-planted-a-backdoor-in-all-of-them/) (974 pts)
+5. [Introspective Diffusion Language Models](https://introspective-diffusion.github.io/) (56 pts)

@@ -1,0 +1,8 @@
+Noticias destacadas de Hacker News
+Generado: 15/04/2026 06:00:04
+
+1. [Want to Write a Compiler? Just Read These Two Papers (2008)](https://prog21.dadgum.com/30.html) (72 pts)
+2. [Good Sleep, Good Learning (2012)](https://super-memory.com/articles/sleep.htm) (44 pts)
+3. [Fixing a 20-year-old bug in Enlightenment E16](https://iczelia.net/posts/e16-20-year-old-bug/) (155 pts)
+4. [Claude Code Routines](https://code.claude.com/docs/en/routines) (628 pts)
+5. [My AI-Assisted Workflow](https://www.maiobarbero.dev/articles/ai-assisted-workflow/) (46 pts)

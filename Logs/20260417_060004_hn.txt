@@ -1,0 +1,8 @@
+Noticias destacadas de Hacker News
+Generado: 17/04/2026 06:00:04
+
+1. [Ada, Its Design, and the Language That Built the Languages](https://www.iqiipi.com/the-quiet-colossus.html) (79 pts)
+2. [Claude Opus 4.7](https://www.anthropic.com/news/claude-opus-4-7) (1773 pts)
+3. [Codex for almost everything](https://openai.com/index/codex-for-almost-everything/) (897 pts)
+4. [FIM – Linux framebuffer image viewer](https://www.nongnu.org/fbi-improved/) (53 pts)
+5. [A Python Interpreter Written in Python](https://aosabook.org/en/500L/a-python-interpreter-written-in-python.html) (73 pts)

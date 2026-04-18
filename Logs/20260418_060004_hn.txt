@@ -1,0 +1,8 @@
+Noticias destacadas de Hacker News
+Generado: 18/04/2026 06:00:04
+
+1. [Category Theory Illustrated – Orders](https://abuseofnotation.github.io/category-theory-illustrated/04_order/) (81 pts)
+2. [Amiga Graphics](https://amiga.lychesis.net/) (95 pts)
+3. [Michael Rabin Has Died](https://en.wikipedia.org/wiki/Michael_O._Rabin) (83 pts)
+4. [Claude Design](https://www.anthropic.com/news/claude-design-anthropic-labs) (1064 pts)
+5. [Show HN: I made a calculator that works over disjoint sets of intervals](https://victorpoughon.github.io/interval-calculator/) (177 pts)

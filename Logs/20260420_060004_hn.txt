@@ -1,0 +1,8 @@
+Noticias destacadas de Hacker News
+Generado: 20/04/2026 06:00:04
+
+1. [GitHub's Fake Star Economy](https://awesomeagents.ai/news/github-fake-stars-investigation/) (128 pts)
+2. [OpenClaw isn't fooling me. I remember MS-DOS](https://www.flyingpenguin.com/build-an-openclaw-free-secure-always-on-local-ai-agent/) (109 pts)
+3. [Up to 8M Bees Are Living in an Underground Network Beneath This Cemetery](https://www.discovermagazine.com/up-to-8-million-bees-are-living-in-an-underground-network-beneath-this-cemetery-48977) (62 pts)
+4. [SDF Public Access Unix System](https://sdf.org/?ssh) (77 pts)
+5. [Vercel April 2026 security incident](https://www.bleepingcomputer.com/news/security/vercel-confirms-breach-as-hackers-claim-to-be-selling-stolen-data/) (760 pts)

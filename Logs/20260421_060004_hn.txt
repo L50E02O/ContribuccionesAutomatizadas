@@ -1,0 +1,8 @@
+Noticias destacadas de Hacker News
+Generado: 21/04/2026 06:00:04
+
+1. [John Ternus to become Apple CEO](https://www.apple.com/newsroom/2026/04/tim-cook-to-become-apple-executive-chairman-john-ternus-to-become-apple-ceo/) (1838 pts)
+2. [Anthropic says OpenClaw-style Claude CLI usage is allowed again](https://docs.openclaw.ai/providers/anthropic) (214 pts)
+3. [A type-safe, realtime collaborative Graph Database in a CRDT](https://codemix.com/graph) (4 pts)
+4. [MNT Reform is an open hardware laptop, designed and assembled in Germany](http://mnt.stanleylieber.com/reform/) (54 pts)
+5. [Louis Zocchi, inventor of the d100, has died](https://icv2.com/articles/news/view/62176/r-i-p-louis-zocchi-the-godfather-dice) (61 pts)

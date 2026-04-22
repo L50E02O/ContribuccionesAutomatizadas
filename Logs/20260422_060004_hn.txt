@@ -1,0 +1,8 @@
+Noticias destacadas de Hacker News
+Generado: 22/04/2026 06:00:04
+
+1. [Windows 9x Subsystem for Linux](https://social.hails.org/@hailey/116446826733136456) (122 pts)
+2. [Making RAM at Home [video]](https://www.youtube.com/watch?v=h6GWikWlAQA) (375 pts)
+3. [How the Heck Does GPS Work?](https://perthirtysix.com/how-the-heck-does-gps-work) (23 pts)
+4. [ChatGPT Images 2.0](https://openai.com/index/introducing-chatgpt-images-2-0/) (848 pts)
+5. [All your agents are going async](https://zknill.io/posts/all-your-agents-are-going-async/) (36 pts)

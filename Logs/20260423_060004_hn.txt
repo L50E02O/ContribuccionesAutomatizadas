@@ -1,0 +1,8 @@
+Noticias destacadas de Hacker News
+Generado: 23/04/2026 06:00:04
+
+1. [I am building a cloud](https://crawshaw.io/blog/building-a-cloud) (406 pts)
+2. [Alberta startup sells no-tech tractors for half price](https://wheelfront.com/this-alberta-startup-sells-no-tech-tractors-for-half-price/) (1807 pts)
+3. [Your hex editor should color-code bytes](https://simonomi.dev/blog/color-code-your-bytes/) (116 pts)
+4. [Apple fixes bug that cops used to extract deleted chat messages from iPhones](https://techcrunch.com/2026/04/22/apple-fixes-bug-that-cops-used-to-extract-deleted-chat-messages-from-iphones/) (621 pts)
+5. [Fundamental Theorem of Calculus](https://david.alvarezrosa.com/posts/fundamental-theorem-of-calculus/) (19 pts)

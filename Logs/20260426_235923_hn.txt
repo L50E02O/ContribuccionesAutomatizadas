@@ -1,0 +1,8 @@
+Noticias destacadas de Hacker News
+Generado: 26/04/2026 23:59:23
+
+1. [I bought Friendster for $30k – Here's what I'm doing with it](https://ca98am79.medium.com/i-bought-friendster-for-30k-heres-what-i-m-doing-with-it-d5e8ddb3991d) (564 pts)
+2. [TurboQuant: A First-Principles Walkthrough](https://arkaung.github.io/interactive-turboquant/) (48 pts)
+3. [Self-updating screenshots](https://interblah.net/self-updating-screenshots) (160 pts)
+4. [The Prompt API](https://developer.chrome.com/docs/ai/prompt-api) (40 pts)
+5. [Flipdiscs](https://flipdisc.io) (17 pts)

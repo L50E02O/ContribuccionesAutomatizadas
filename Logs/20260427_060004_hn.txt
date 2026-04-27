@@ -1,0 +1,8 @@
+Noticias destacadas de Hacker News
+Generado: 27/04/2026 06:00:04
+
+1. [Flipdiscs](https://flipdisc.io) (303 pts)
+2. [I bought Friendster for $30k – Here's what I'm doing with it](https://ca98am79.medium.com/i-bought-friendster-for-30k-heres-what-i-m-doing-with-it-d5e8ddb3991d) (846 pts)
+3. [Bob Odenkirk would like to remind you that life is a meaningless farce](https://www.nytimes.com/2026/04/25/magazine/bob-odenkirk-interview.html) (64 pts)
+4. [Fully Featured Audio DSP Firmware for the Raspberry Pi Pico](https://github.com/WeebLabs/DSPi) (9 pts)
+5. [AI should elevate your thinking, not replace it](https://www.koshyjohn.com/blog/ai-should-elevate-your-thinking-not-replace-it/) (527 pts)

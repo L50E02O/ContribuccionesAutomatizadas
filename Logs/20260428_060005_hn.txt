@@ -1,0 +1,8 @@
+Noticias destacadas de Hacker News
+Generado: 28/04/2026 06:00:05
+
+1. [An Update on GitHub Availability](https://github.blog/news-insights/company-news/an-update-on-github-availability/) (52 pts)
+2. [GTFOBins](https://gtfobins.org/) (216 pts)
+3. [The Social Edge of Intellgience: Individual Gain, Collective Loss](https://www.theideasletter.org/essay/the-social-edge-of-intelligence/) (9 pts)
+4. [Talkie: a 13B vintage language model from 1930](https://talkie-lm.com/introducing-talkie) (387 pts)
+5. [The World's Most Complex Machine](https://worksinprogress.co/issue/the-worlds-most-complex-machine/) (58 pts)

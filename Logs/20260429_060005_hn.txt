@@ -1,0 +1,8 @@
+Noticias destacadas de Hacker News
+Generado: 29/04/2026 06:00:05
+
+1. [Soft launch of open-source code platform for government](https://www.nldigitalgovernment.nl/news/soft-launch-for-government-open-source-code-platform/) (78 pts)
+2. [Ghostty is leaving GitHub](https://mitchellh.com/writing/ghostty-leaving-github) (2681 pts)
+3. [Show HN: Rip.so – a graveyard for dead internet things](https://rip.so) (48 pts)
+4. [Bugs Rust won't catch](https://corrode.dev/blog/bugs-rust-wont-catch/) (329 pts)
+5. [HardenedBSD Is Now Officially on Radicle](https://hardenedbsd.org/article/shawn-webb/2026-04-26/hardenedbsd-officially-radicle) (79 pts)

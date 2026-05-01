@@ -1,0 +1,8 @@
+Noticias destacadas de Hacker News
+Generado: 30/04/2026 23:12:21
+
+1. [Show HN: Winpodx – run Windows apps on Linux as native windows](https://github.com/kernalix7/winpodx) (34 pts)
+2. [How Mark Klein told the EFF about Room 641A [book excerpt]](https://thereader.mitpress.mit.edu/the-whistleblower-who-uncovered-the-nsas-big-brother-machine/) (474 pts)
+3. [Opus 4.7 knows the real Kelsey](https://www.theargumentmag.com/p/i-can-never-talk-to-an-ai-anonymously) (223 pts)
+4. [For Linux kernel vulnerabilities, there is no heads-up to distributions](https://www.openwall.com/lists/oss-security/2026/04/30/10) (410 pts)
+5. [Shai-Hulud Themed Malware Found in the PyTorch Lightning AI Training Library](https://semgrep.dev/blog/2026/malicious-dependency-in-pytorch-lightning-used-for-ai-training/) (343 pts)

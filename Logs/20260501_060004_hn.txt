@@ -1,0 +1,8 @@
+Noticias destacadas de Hacker News
+Generado: 01/05/2026 06:00:04
+
+1. [After dissing Anthropic for limiting Mythos, OpenAI restricts access to Cyber](https://techcrunch.com/2026/04/30/after-dissing-anthropic-for-limiting-mythos-openai-restricts-access-to-cyber-too/) (23 pts)
+2. [Show HN: WhatCable, a tiny menu bar app for inspecting USB-C cables](https://github.com/darrylmorley/whatcable) (88 pts)
+3. [Auto Polo](https://en.wikipedia.org/wiki/Auto_polo) (62 pts)
+4. [Show HN: Perfect Bluetooth MIDI for Windows](https://news.ycombinator.com/item?id=47972888) (23 pts)
+5. [The Rotary Un-Smartphone](https://skysedge.com/telecom/RUSP/index.html) (16 pts)

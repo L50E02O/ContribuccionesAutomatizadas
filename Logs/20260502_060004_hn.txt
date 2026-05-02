@@ -1,0 +1,8 @@
+Noticias destacadas de Hacker News
+Generado: 02/05/2026 06:00:04
+
+1. [How fast is a macOS VM, and how small could it be?](https://eclecticlight.co/2026/05/02/how-fast-is-a-macos-vm-and-how-small-could-it-be/) (27 pts)
+2. [Why does it take so long to release black fan versions?](https://www.noctua.at/en/expertise/blog/how-can-it-take-so-long-to-release-black-fan-versions) (273 pts)
+3. [Show HN: Mljar Studio – local AI data analyst that saves analysis as notebooks](https://mljar.com/) (11 pts)
+4. [Why are there both TMP and TEMP environment variables? (2015)](https://devblogs.microsoft.com/oldnewthing/20150417-00/?p=44213) (31 pts)
+5. [Show HN: DAC – open-source dashboard as code tool for agents and humans](https://github.com/bruin-data/dac) (19 pts)

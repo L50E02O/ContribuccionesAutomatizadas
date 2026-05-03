@@ -1,0 +1,8 @@
+Noticias destacadas de Hacker News
+Generado: 03/05/2026 06:00:05
+
+1. [A couple million lines of Haskell: Production engineering at Mercury](https://blog.haskell.org/a-couple-million-lines-of-haskell/) (234 pts)
+2. [This Month in Ladybird – April 2026](https://ladybird.org/newsletter/2026-04-30/) (344 pts)
+3. [Dav2d](https://code.videolan.org/videolan/dav2d) (486 pts)
+4. [Unverified Evaluations in Dusk's PLONK](https://osec.io/blog/2026-04-30-unverified-evaluations-dusk-plonk/) (25 pts)
+5. [Six Years Perfecting Maps on WatchOS](https://www.david-smith.org/blog/2026/04/29/maps-on-watchos/) (308 pts)

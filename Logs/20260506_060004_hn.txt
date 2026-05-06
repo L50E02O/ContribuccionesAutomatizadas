@@ -1,0 +1,8 @@
+Noticias destacadas de Hacker News
+Generado: 06/05/2026 06:00:04
+
+1. [Agents can now create Cloudflare accounts, buy domains, and deploy](https://blog.cloudflare.com/agents-stripe-projects/) (355 pts)
+2. [StarFighter 16-Inch](https://us.starlabs.systems/pages/starfighter) (372 pts)
+3. [CARA 2.0 – “I Built a Better Robot Dog”](https://www.aaedmusa.com/projects/cara2) (177 pts)
+4. [Batteries Not Included, or Required, for These Smart Home Sensors](https://coe.gatech.edu/news/2026/04/batteries-not-included-or-required-these-smart-home-sensors) (45 pts)
+5. [Show HN: Red Squares – GitHub outages as contributions](https://red-squares.cian.lol/) (9 pts)

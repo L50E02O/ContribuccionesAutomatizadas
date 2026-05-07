@@ -1,0 +1,8 @@
+Noticias destacadas de Hacker News
+Generado: 07/05/2026 06:00:05
+
+1. [Valve releases Steam Controller CAD files under Creative Commons license](https://www.digitalfoundry.net/news/2026/05/valve-releases-steam-controller-cad-files-under-creative-commons-license) (1464 pts)
+2. [Appearing productive in the workplace](https://nooneshappy.com/article/appearing-productive-in-the-workplace/) (1209 pts)
+3. [SQLite Is a Library of Congress Recommended Storage Format](https://sqlite.org/locrsf.html) (272 pts)
+4. [Permacomputing Principles](https://permacomputing.net/principles/) (154 pts)
+5. [Diskless Linux boot using ZFS, iSCSI and PXE](https://aniket.foo/posts/20260505-netboot/) (100 pts)

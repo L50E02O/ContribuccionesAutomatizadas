@@ -1,0 +1,8 @@
+Noticias destacadas de Hacker News
+Generado: 08/05/2026 06:00:05
+
+1. [Canvas is down as ShinyHunters threatens to leak schools’ data](https://www.theverge.com/tech/926458/canvas-shinyhunters-breach) (671 pts)
+2. [Cloudflare to cut about 20% workforce](https://www.reuters.com/business/world-at-work/cloudflare-cut-over-1100-jobs-2026-05-07/) (793 pts)
+3. [Maybe you shouldn't install new software for a bit](https://xeiaso.net/blog/2026/abstain-from-install/) (557 pts)
+4. [Nintendo announces price increases for Nintendo Switch 2](https://www.nintendo.co.jp/corporate/release/en/2026/260508.html) (37 pts)
+5. [ClojureScript Gets Async/Await](https://clojurescript.org/news/2026-05-07-release) (76 pts)

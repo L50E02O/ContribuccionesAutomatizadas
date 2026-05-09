@@ -1,0 +1,8 @@
+Noticias destacadas de Hacker News
+Generado: 09/05/2026 06:00:05
+
+1. [A recent experience with ChatGPT 5.5 Pro](https://gowers.wordpress.com/2026/05/08/a-recent-experience-with-chatgpt-5-5-pro/) (332 pts)
+2. [Google broke reCAPTCHA for de-googled Android users](https://reclaimthenet.org/google-broke-recaptcha-for-de-googled-android-users) (1075 pts)
+3. [Using Claude Code: The unreasonable effectiveness of HTML](https://twitter.com/trq212/status/2052809885763747935) (163 pts)
+4. [OpenAI’s WebRTC problem](https://moq.dev/blog/webrtc-is-the-problem/) (333 pts)
+5. [Mythical Man Month](https://martinfowler.com/bliki/MythicalManMonth.html) (169 pts)

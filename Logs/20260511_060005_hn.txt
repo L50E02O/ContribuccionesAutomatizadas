@@ -1,0 +1,8 @@
+Noticias destacadas de Hacker News
+Generado: 11/05/2026 06:00:05
+
+1. [Hardware Attestation as Monopoly Enabler](https://grapheneos.social/@GrapheneOS/116550899908879585) (1616 pts)
+2. [Local AI needs to be the norm](https://unix.foo/posts/local-ai-needs-to-be-norm/) (1211 pts)
+3. [I'm going back to writing code by hand](https://blog.k10s.dev/im-going-back-to-writing-code-by-hand/) (408 pts)
+4. [The greatest shot in television: James Burke had one chance to nail this scene (2024)](https://www.openculture.com/2024/10/the-greatest-shot-in-television.html) (190 pts)
+5. [Running local models on an M4 with 24GB memory](https://jola.dev/posts/running-local-models-on-m4) (333 pts)

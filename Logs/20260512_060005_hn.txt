@@ -1,0 +1,8 @@
+Noticias destacadas de Hacker News
+Generado: 12/05/2026 06:00:05
+
+1. [Learning Software Architecture](https://matklad.github.io/2026/05/12/software-architecture.html) (75 pts)
+2. [Postmortem: TanStack NPM supply-chain compromise](https://tanstack.com/blog/npm-supply-chain-compromise-postmortem) (875 pts)
+3. [Screenshots of Old Desktop OSes](http://www.typewritten.org/Media/) (213 pts)
+4. [Toxicity on Social Media – The Noisy Room](https://thenoisyroom.com) (44 pts)
+5. [They Live (1988) inspired Adblocker](https://github.com/davmlaw/they_live_adblocker) (270 pts)

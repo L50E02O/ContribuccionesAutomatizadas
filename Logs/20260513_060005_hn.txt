@@ -1,0 +1,8 @@
+Noticias destacadas de Hacker News
+Generado: 13/05/2026 06:00:05
+
+1. [Deterministic Fully-Static Whole-Binary Translation Without Heuristics](https://arxiv.org/abs/2605.08419) (199 pts)
+2. [Restore full BambuNetwork support for Bambu Lab printers](https://github.com/FULU-Foundation/OrcaSlicer-bambulab) (456 pts)
+3. [Googlebook](https://googlebook.google/) (799 pts)
+4. [Show HN: Needle: We Distilled Gemini Tool Calling into a 26M Model](https://github.com/cactus-compute/needle) (481 pts)
+5. [New stainless steel can survive conditions for hydrogen production in seawater](https://www.sciencedaily.com/releases/2026/05/260510030950.htm) (62 pts)

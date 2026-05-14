@@ -1,0 +1,8 @@
+Noticias destacadas de Hacker News
+Generado: 14/05/2026 06:00:05
+
+1. [Claude for Small Business](https://www.anthropic.com/news/claude-for-small-business) (279 pts)
+2. [Scorched Earth 2000 – Web](http://www.scorch2000.com/web/) (275 pts)
+3. [Linux gaming is faster because Windows APIs are becoming Linux kernel features](https://www.xda-developers.com/linux-gaming-is-getting-faster-because-windows-apis-are-becoming-linux-kernel-features/) (758 pts)
+4. [Show HN: Running the second public ODoH relay](https://numa.rs/blog/posts/odoh-anonymous-dns-without-an-account.html) (3 pts)
+5. [Setting up a free *.city.state.us locality domain (2025)](https://fredchan.org/blog/locality-domains-guide/) (567 pts)

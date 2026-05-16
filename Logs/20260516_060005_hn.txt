@@ -1,0 +1,8 @@
+Noticias destacadas de Hacker News
+Generado: 16/05/2026 06:00:05
+
+1. [Δ-Mem: Efficient Online Memory for Large Language Models](https://arxiv.org/abs/2605.12357) (32 pts)
+2. [Futhark by Example](https://futhark-lang.org/examples.html) (15 pts)
+3. [Project Gutenberg – keeps getting better](https://www.gutenberg.org/) (960 pts)
+4. [We've made the world too complicated](https://user8.bearblog.dev/the-world-is-too-complicated/) (19 pts)
+5. [Frontier AI has broken the open CTF format](https://kabir.au/blog/the-ctf-scene-is-dead) (152 pts)

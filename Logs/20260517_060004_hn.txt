@@ -1,0 +1,8 @@
+Noticias destacadas de Hacker News
+Generado: 17/05/2026 06:00:04
+
+1. [Zerostack – A Unix-inspired coding agent written in pure Rust](https://crates.io/crates/zerostack/1.0.0) (412 pts)
+2. [Mozilla to UK regulators: VPNs are essential privacy and security tools](https://blog.mozilla.org/netpolicy/2026/05/15/mozilla-to-uk-regulators-vpns-are-essential-privacy-and-security-tools-and-should-not-be-undermined/) (237 pts)
+3. [A nicer voltmeter clock](https://lcamtuf.substack.com/p/a-nicer-voltmeter-clock) (201 pts)
+4. [Hosting a website on an 8-bit microcontroller](https://maurycyz.com/projects/mcusite/) (141 pts)
+5. [Colossus: The Forbin Project](https://en.wikipedia.org/wiki/Colossus:_The_Forbin_Project) (110 pts)

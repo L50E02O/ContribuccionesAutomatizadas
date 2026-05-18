@@ -1,0 +1,8 @@
+Noticias destacadas de Hacker News
+Generado: 18/05/2026 06:00:05
+
+1. [The foundations of a provably secure operating system (PSOS) (1979) [pdf]](http://www.csl.sri.com/users/neumann/psos.pdf) (30 pts)
+2. [Where Are the Vibecoded Photoshops?](https://indiepixel.de/blog/posts/where-are-the-vibecoded-photoshops/) (86 pts)
+3. [GenCAD](https://gencad.github.io/) (338 pts)
+4. [Multiple commencement speakers booed for AI comments during graduation speeches](https://www.nbcnews.com/video/multiple-commencement-speakers-booed-for-ai-comments-during-graduation-speeches-263486021518) (58 pts)
+5. [Crystals found inside wreckage from the first nuclear bomb test](https://www.scientificamerican.com/article/strange-crystals-found-inside-wreckage-from-the-first-nuclear-bomb-test/) (89 pts)

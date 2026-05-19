@@ -1,0 +1,8 @@
+Noticias destacadas de Hacker News
+Generado: 19/05/2026 06:00:05
+
+1. [I Found Ultra-Pure Quantum Crystals in an Abandoned Mine in the Atacama Desert](https://medium.com/@breid.at/ultra-pure-quantum-crystals-from-an-abandoned-mine-in-a-mysterious-desert-93cc87d12314) (72 pts)
+2. [Gaussian Splat of a Strawberry](https://superspl.at/scene/84df8849) (5 pts)
+3. [Polypad](https://polypad.amplify.com/) (80 pts)
+4. [Peter Neumann has died](https://www.tuhs.org/pipermail/tuhs/2026-May/033748.html) (132 pts)
+5. [The last six months in LLMs in five minutes](https://simonwillison.net/2026/May/19/5-minute-llms/) (474 pts)

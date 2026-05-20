@@ -1,0 +1,8 @@
+Noticias destacadas de Hacker News
+Generado: 20/05/2026 06:00:05
+
+1. [Everything in C is undefined behavior](https://blog.habets.se/2026/05/Everything-in-C-is-undefined-behavior.html) (212 pts)
+2. [Learnings from 100K lines of Rust with AI (2025)](https://zfhuang99.github.io/rust/claude%20code/codex/contracts/spec-driven%20development/2025/12/01/rust-with-ai.html) (22 pts)
+3. [Gemini 3.5 Flash](https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5/) (811 pts)
+4. [FiveThirtyEight articles on the Internet Archive](https://fivethirtyeightindex.com/) (214 pts)
+5. [I’ve built a virtual museum with nearly every operating system you can think of](https://virtualosmuseum.org/) (801 pts)

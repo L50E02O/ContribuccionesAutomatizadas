@@ -1,0 +1,8 @@
+Noticias destacadas de Hacker News
+Generado: 21/05/2026 06:00:05
+
+1. [Google officially announces that ads will be included in AI Mode search results](https://blog.google/products/ads-commerce/google-marketing-live-search-ads/) (54 pts)
+2. [Show HN: Rmux – A programmable terminal multiplexer with a Playwright-style SDK](https://github.com/helvesec/rmux) (39 pts)
+3. [An OpenAI model has disproved a central conjecture in discrete geometry](https://openai.com/index/model-disproves-discrete-geometry-conjecture/) (1199 pts)
+4. [GitHub confirms breach of 3,800 repos via malicious VSCode extension](https://www.bleepingcomputer.com/news/security/github-confirms-breach-of-3-800-repos-via-malicious-vscode-extension/) (867 pts)
+5. [Show HN: I reverse engineered Apple's video wallpapers](https://github.com/kageroumado/phosphene) (299 pts)

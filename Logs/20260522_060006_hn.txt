@@ -1,0 +1,8 @@
+Noticias destacadas de Hacker News
+Generado: 22/05/2026 06:00:06
+
+1. [The case against boolean logic](https://abuseofnotation.github.io/boolean-thinking/) (4 pts)
+2. [Project Hail Mary – Stellar Navigation Chart](https://valhovey.github.io/gaia-mary/) (951 pts)
+3. [Slumber a TUI HTTP Client](https://slumber.lucaspickering.me) (90 pts)
+4. [CODA: Rewriting Transformer Blocks as GEMM-Epilogue Programs](https://arxiv.org/abs/2605.19269) (76 pts)
+5. [Cleve Moler has died](https://www.mathworks.com/company/aboutus/founders/clevemoler.html) (122 pts)

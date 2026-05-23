@@ -1,0 +1,8 @@
+Noticias destacadas de Hacker News
+Generado: 23/05/2026 06:00:08
+
+1. [Shipping a laptop to a refugee camp in Uganda](https://notesbylex.com/shipping-a-laptop-to-a-refugee-camp-in-uganda) (483 pts)
+2. [Rubish: A Unix shell written in pure Ruby](https://github.com/amatsuda/rubish) (48 pts)
+3. [Why Japanese companies do so many different things](https://davidoks.blog/p/why-japanese-companies-do-so-many) (696 pts)
+4. [The quadratic sandwich](https://fedemagnani.github.io/math/2026/04/08/the-quadratic-sandwich.html) (53 pts)
+5. [BambuStudio has been violating PrusaSlicer AGPL license since their fork](https://xcancel.com/josefprusa/status/2054602354851254330) (73 pts)

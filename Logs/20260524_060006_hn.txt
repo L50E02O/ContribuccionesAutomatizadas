@@ -1,0 +1,8 @@
+Noticias destacadas de Hacker News
+Generado: 24/05/2026 06:00:06
+
+1. [Microsoft open-sources "the earliest DOS source code discovered to date"](https://arstechnica.com/gadgets/2026/04/microsoft-open-sources-the-earliest-dos-source-code-discovered-to-date/) (271 pts)
+2. [Why is Vivado 2026.1 dropping Linux support for free tier?](https://adaptivesupport.amd.com/s/question/0D5Pd00001YQLdMKAX/why-is-vivado-20261-dropping-linux-support-for-free-tier-?language=en_US) (177 pts)
+3. [Greg Brockman: Inside the 72 Hours That Almost Killed OpenAI](https://fs.blog/knowledge-project-podcast/greg-brockman/) (24 pts)
+4. [I spent 50 hours drawing a line graph](https://www.dougmacdowell.com/50-hours-to-draw-some-lines.html) (37 pts)
+5. [Silk: Open-source cooperative fiber scheduler](https://github.com/ClickHouse/silk) (37 pts)

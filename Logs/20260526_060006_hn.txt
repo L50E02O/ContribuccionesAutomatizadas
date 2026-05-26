@@ -1,0 +1,8 @@
+Noticias destacadas de Hacker News
+Generado: 26/05/2026 06:00:06
+
+1. [I bypassed AWS API Gateway auth with a trailing slash. Got $12K bounty](https://theguptalog.blogspot.com/2026/04/i-bypassed-aws-api-gateway-auth-with.html) (28 pts)
+2. [DynIP – Dynamic DNS with RFC 2136, IPv6, DNSSEC, and BYOD](https://dynip.dev/) (127 pts)
+3. [Using AI to write better code more slowly](https://nolanlawson.com/2026/05/25/using-ai-to-write-better-code-more-slowly/) (695 pts)
+4. [Taking a walk may lead to more creativity than sitting, study finds (2014)](https://www.apa.org/news/press/releases/2014/04/creativity-walk) (323 pts)
+5. [Phantasy Star IV – 1993 Developer Interviews](https://shmuplations.com/phantasystariv/) (17 pts)

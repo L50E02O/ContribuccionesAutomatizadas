@@ -1,0 +1,8 @@
+Noticias destacadas de Hacker News
+Generado: 27/05/2026 06:00:05
+
+1. [Mini Micro Fantasy Computer](https://miniscript.org/MiniMicro/index.html#about) (36 pts)
+2. [The Melancholy of Slaying Monsters](https://thereader.mitpress.mit.edu/the-strange-melancholy-of-slaying-monsters/) (112 pts)
+3. [Raft Consensus with a Minority of Nodes](https://padhye.org/raft-minority/) (33 pts)
+4. [BadHost – CVE-2026-48710: Starlette Host-Header Auth Bypass](https://badhost.org/) (62 pts)
+5. [Cloudflare Flagship](https://developers.cloudflare.com/flagship/) (233 pts)

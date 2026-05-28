@@ -1,0 +1,8 @@
+Noticias destacadas de Hacker News
+Generado: 28/05/2026 06:00:06
+
+1. [YouTube to automatically label AI-generated videos](https://blog.youtube/news-and-events/improving-ai-labels-viewers-creators/) (916 pts)
+2. [A Eureka machine that thinks like nature and explores what AI cannot](https://iisc.ac.in/a-eureka-machine-that-thinks-like-nature-and-explores-what-ai-cannot/) (76 pts)
+3. [I analysed 20 years of my chats](https://drobinin.com/posts/am-i-a-bad-friend/) (146 pts)
+4. [I think Anthropic and OpenAI have found product-market fit](https://simonwillison.net/2026/May/27/product-market-fit/) (890 pts)
+5. [Hallucinate – Massively Multiplayer Online Rave](https://hallucinate.site) (224 pts)

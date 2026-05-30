@@ -1,0 +1,8 @@
+Noticias destacadas de Hacker News
+Generado: 30/05/2026 06:00:05
+
+1. [Zig: Build System Reworked](https://ziglang.org/devlog/2026/#2026-05-26) (81 pts)
+2. [The Kaiser and a "Mediocre Man" Theory of History](https://www.deadcarl.com/p/the-kaiser-and-a-mediocre-man-theory) (26 pts)
+3. [Pandoc Templates](https://pandoc-templates.org/) (15 pts)
+4. [SQLite is all you need for durable workflows](https://obeli.sk/blog/sqlite-is-all-you-need-for-durable-workflows/) (552 pts)
+5. [Danish pension fund excludes SpaceX citing governance and valuation](https://www.reuters.com/legal/transactional/danish-pension-fund-excludes-spacex-citing-governance-valuation-2026-05-29/) (162 pts)

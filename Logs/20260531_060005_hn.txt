@@ -1,0 +1,8 @@
+Noticias destacadas de Hacker News
+Generado: 31/05/2026 06:00:05
+
+1. [The Website Specification](https://specification.website/) (182 pts)
+2. [London's Free Roof Terraces](https://diamondgeezer.blogspot.com/2026/05/londons-free-roof-terraces.html) (79 pts)
+3. [Domain expertise has always been the real moat](https://www.brethorsting.com/blog/2026/05/domain-expertise-has-always-been-the-real-moat/) (625 pts)
+4. [Show HN: Breathe CLI – Paced resonance breathing in the macOS terminal](https://github.com/marekkowalczyk/breathe-cli) (44 pts)
+5. [Avian Visitors](https://theodore.net/projects/AvianVisitors/) (46 pts)

@@ -1,0 +1,8 @@
+Noticias destacadas de Hacker News
+Generado: 01/06/2026 06:00:06
+
+1. [A 10 year old Xeon is all you need](https://point.free/blog/gemma-4-on-a-2016-xeon/) (159 pts)
+2. [Tracing HTTP Requests with Go's net/HTTP/httptrace](https://blainsmith.com/articles/httptrace-with-go/) (31 pts)
+3. [Chuwi Minibook X](https://tylercipriani.com/blog/2026/05/28/chuwi-minibook-x/) (296 pts)
+4. [Cloudflare Turnstile requiring fingerprintable WebGL](https://hacktivis.me/articles/cloudflare-turnstile-webgl-fingerprinting) (683 pts)
+5. [Cessation of public development of Kefir C compiler](https://kefir.protopopov.lv/posts/announce2.html) (31 pts)

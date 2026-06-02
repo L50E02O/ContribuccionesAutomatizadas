@@ -1,0 +1,8 @@
+Noticias destacadas de Hacker News
+Generado: 02/06/2026 06:00:07
+
+1. [Why Janet? (2023)](https://ianthehenry.com/posts/why-janet/) (106 pts)
+2. [Adafruit Receives Demand Letter from Fenwick Legal Counsel on Behalf of Flux.ai](https://blog.adafruit.com/) (35 pts)
+3. [CSS-Native Parallax Effect](https://dan-webnotes.com/posts/2026-06-02-css-native-parallax-effect/) (13 pts)
+4. [The newest Instagram “exploit” is the goofiest I've seen](https://www.0xsid.com/blog/meta-account-takeover-fiasco) (1861 pts)
+5. [Muxcard, a dyi credit card size computer](https://github.com/krauseler/muxcard) (60 pts)

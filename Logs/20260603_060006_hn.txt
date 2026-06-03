@@ -1,0 +1,8 @@
+Noticias destacadas de Hacker News
+Generado: 03/06/2026 06:00:06
+
+1. [Show HN: Edsger – A handwritten Clojure REPL for the reMarkable 2](https://handwritten.danieljanus.pl/2026-06-01-edsger.html) (62 pts)
+2. [1-Click GitHub Token Stealing via a VSCode Bug](https://blog.ammaraskar.com/github-token-stealing/) (440 pts)
+3. [Show HN: I reverse-engineered the world maps of Test Drive III (1990 DOS game)](https://github.com/s-macke/Test-Drive-3-Maps) (113 pts)
+4. [Hacking your PC using your speaker without ever touching it](https://blog.nns.ee/2026/06/03/katana-badusb/) (4 pts)
+5. [Use your Nvidia GPU's VRAM as swap space on Linux](https://github.com/c0dejedi/nbd-vram) (330 pts)

@@ -1,0 +1,8 @@
+Noticias destacadas de Hacker News
+Generado: 05/06/2026 06:00:06
+
+1. [Changing How We Develop Ladybird](https://ladybird.org/posts/changing-how-we-develop-ladybird/) (323 pts)
+2. [Tracing a powerful GNSS interference source over Europe](https://arxiv.org/abs/2606.03673) (63 pts)
+3. [Entanglement Builds Space-Time. Now "Magic" Gives It Gravity](https://www.quantamagazine.org/entanglement-builds-space-time-now-magic-gives-it-gravity-20260603/) (26 pts)
+4. [databow: a Rust CLI to query any database with an ADBC driver](https://columnar.tech/blog/introducing-databow//) (30 pts)
+5. [Meta enables ADB on deprecated Portal devices [video]](https://fb.watch/HxPu0fSyeH/) (231 pts)

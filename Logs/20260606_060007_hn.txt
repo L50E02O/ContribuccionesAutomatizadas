@@ -1,0 +1,8 @@
+Noticias destacadas de Hacker News
+Generado: 06/06/2026 06:00:07
+
+1. [GrapheneOS user reported to authorities for using GrapheneOS](https://discuss.grapheneos.org/d/36134-grapheneos-user-reported-to-authorities-for-using-grapheneos) (247 pts)
+2. [Zig Zen Update](https://codeberg.org/ziglang/zig/commit/621844bde551ee1a9b8142d7d146d1fa804247a2) (57 pts)
+3. [How LLMs work](https://www.0xkato.xyz/how-llms-actually-work/) (387 pts)
+4. [The intracies of modern camera lens repair (2024)](https://salvagedcircuitry.com/sigma-45mm.html) (177 pts)
+5. [S&P 500 rejects SpaceX, also blocking entry for OpenAI and Anthropic](https://arstechnica.com/tech-policy/2026/06/sp-500-blocks-fast-spacex-entry-wont-waive-rule-for-unprofitable-ai-firms/) (533 pts)

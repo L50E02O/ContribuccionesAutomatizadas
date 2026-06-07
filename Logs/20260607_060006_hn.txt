@@ -1,0 +1,8 @@
+Noticias destacadas de Hacker News
+Generado: 07/06/2026 06:00:06
+
+1. [The 29th International Obfuscated C Code Contest (IOCCC) 2025 Winners](https://www.ioccc.org/2025/) (179 pts)
+2. [Speculative KV coding: losslessly compressing KV cache by up to ~4×](https://fergusfinn.com/blog/kv-entropy-coder/) (50 pts)
+3. [Win16 Memory Management](http://www.os2museum.com/wp/win16-memory-management/) (31 pts)
+4. [Valve P2P networking broken for more than 2 months](https://github.com/ValveSoftware/GameNetworkingSockets/issues/398) (179 pts)
+5. [My Software North Star](https://kristoff.it/blog/north-star/) (88 pts)

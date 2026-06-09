@@ -1,0 +1,8 @@
+Noticias destacadas de Hacker News
+Generado: 09/06/2026 06:00:07
+
+1. [Microsoft's open source tools were hacked to steal passwords of AI developers](https://techcrunch.com/2026/06/08/microsofts-open-source-tools-were-hacked-to-steal-passwords-of-ai-developers/) (190 pts)
+2. [GentleOS – Classic operating system with a lovely retro GUI](https://github.com/luke8086/gentleos32) (50 pts)
+3. [Forever Young: how one molecule can lock plants in a youthful state.(2025)](https://omnia.sas.upenn.edu/story/biologist-scott-poethig-plants-never-age) (33 pts)
+4. [OpenCV 5 Is Here: The Biggest Leap in Years for Computer Vision](https://opencv.org/opencv-5/) (230 pts)
+5. [Apple reveals new AI architecture built around Google Gemini models](https://www.macrumors.com/2026/06/08/apple-reveals-new-ai-architecture/) (611 pts)

@@ -1,0 +1,8 @@
+Noticias destacadas de Hacker News
+Generado: 10/06/2026 06:00:07
+
+1. [Mercedes‑Benz starts large‑scale production of electric axial flux motor](https://media.mercedes-benz.com/en/article/bebac2af-acdc-465a-9538-adb0bf3d8ccf) (120 pts)
+2. [macOS Container Machines](https://github.com/apple/container/blob/main/docs/container-machine.md) (806 pts)
+3. [Claude Fable 5](https://www.anthropic.com/news/claude-fable-5-mythos-5) (2271 pts)
+4. [Port React Compiler to Rust](https://github.com/react/react/pull/36173) (48 pts)
+5. [Upcoming breaking changes for npm v12](https://github.blog/changelog/2026-06-09-upcoming-breaking-changes-for-npm-v12/) (384 pts)

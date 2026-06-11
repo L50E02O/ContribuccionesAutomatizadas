@@ -1,0 +1,8 @@
+Noticias destacadas de Hacker News
+Generado: 11/06/2026 06:00:10
+
+1. [Pokémon Go Scans Trained the Navigation Tech for Military Drones](https://dronexl.co/2026/06/09/pokemon-go-scans-niantic-vantor-military-drone-navigation/) (313 pts)
+2. [AI agent runs amok in Fedora and elsewhere](https://lwn.net/SubscriberLink/1077035/c7e7c14fbd60fae9/) (426 pts)
+3. [Cybersecurity researchers aren't happy about the guardrails on Anthropic's Fable](https://techcrunch.com/2026/06/10/cybersecurity-researchers-arent-happy-about-the-guardrails-on-anthropics-fable/) (460 pts)
+4. [πFS](https://github.com/philipl/pifs) (772 pts)
+5. [Web Browsers on Video Game Consoles](https://vale.rocks/posts/game-console-browsers) (32 pts)

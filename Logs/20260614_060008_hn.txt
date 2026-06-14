@@ -1,0 +1,8 @@
+Noticias destacadas de Hacker News
+Generado: 14/06/2026 06:00:08
+
+1. [Honda Civics and the Evil Valet](https://juniperspring.org/posts/honda-evil-valet/) (282 pts)
+2. [Free SQL→ER diagram tool, runs in the browser, nothing uploaded](https://sqltoerdiagram.com/) (158 pts)
+3. [GLM 5.2 Is Out](https://twitter.com/jietang/status/2065784751345287314) (604 pts)
+4. [Cooling in Space](https://guille.site/posts/space-cooling/) (19 pts)
+5. [Noise infusion banned from statistical products published by Census Bureau](https://desfontain.es/blog/banning-noise.html) (829 pts)

@@ -1,0 +1,8 @@
+Noticias destacadas de Hacker News
+Generado: 15/06/2026 06:00:10
+
+1. [Your ePub Is fine](https://andreklein.net/your-epub-is-fine-kobo-disagrees-blame-adobe/) (639 pts)
+2. [Apple Foundation Models](https://platform.claude.com/docs/en/cli-sdks-libraries/libraries/apple-foundation-models) (175 pts)
+3. [What the Fuck Happened to Nerds](https://mrmarket.lol/what-the-fuck-happened-to-nerds/) (209 pts)
+4. [Even more batteries included with Emacs](https://karthinks.com/software/even-more-batteries-included-with-emacs/) (220 pts)
+5. [Anthropic's Safety Superpower](https://stratechery.com/2026/anthropics-safety-superpower/) (7 pts)

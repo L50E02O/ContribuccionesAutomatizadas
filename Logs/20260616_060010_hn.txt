@@ -1,0 +1,8 @@
+Noticias destacadas de Hacker News
+Generado: 16/06/2026 06:00:10
+
+1. [The time the x86 emulator team found code so bad they fixed it during emulation](https://devblogs.microsoft.com/oldnewthing/20260615-00/?p=112419) (285 pts)
+2. [John Carmack on Fabrice Bellard](https://twitter.com/ID_AA_Carmack/status/2064095424420487226) (316 pts)
+3. [A backdoor in a LinkedIn job offer](https://roman.pt/posts/linkedin-backdoor/) (1226 pts)
+4. [Getting Creative with Perlin Noise Fields](https://sighack.com/post/getting-creative-with-perlin-noise-fields) (30 pts)
+5. [Iroh 1.0](https://www.iroh.computer/blog/v1) (1208 pts)

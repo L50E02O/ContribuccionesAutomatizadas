@@ -1,0 +1,8 @@
+Noticias destacadas de Hacker News
+Generado: 17/06/2026 06:00:10
+
+1. [GLM-5.2 is the new leading open weights model on Artificial Analysis](https://artificialanalysis.ai/articles/glm-5-2-is-the-new-leading-open-weights-model-on-the-artificial-analysis-intelligence-index) (95 pts)
+2. [Show HN: High-Res Neural Cellular Automata](https://cells2pixels.github.io/) (40 pts)
+3. [GrapheneOS has been ported to Android 17](https://discuss.grapheneos.org/d/36469-grapheneos-has-been-ported-to-android-17-and-official-releases-are-coming-soon) (802 pts)
+4. [Running local models is good now](https://vickiboykis.com/2026/06/15/running-local-models-is-good-now/) (1359 pts)
+5. [Hacker News but for Independent Blogs](https://bubbles.town/) (114 pts)

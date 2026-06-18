@@ -1,0 +1,8 @@
+Noticias destacadas de Hacker News
+Generado: 18/06/2026 06:00:10
+
+1. [Midjourney Medical](https://www.midjourney.com/medical/blogpost) (799 pts)
+2. [I need your clothes, your boots, and your motorcycle](https://rbelmont.mameworld.info/?p=1725) (41 pts)
+3. [DeepSeek Introduces Vision](https://chat.deepseek.com/) (170 pts)
+4. [Local Qwen isn't a worse Opus, it's a different tool](https://blog.alexellis.io/local-ai-is-not-opus/) (235 pts)
+5. [Lore – Open source version control system designed for scalability](https://lore.org/) (1156 pts)

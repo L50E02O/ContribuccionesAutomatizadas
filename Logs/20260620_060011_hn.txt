@@ -1,0 +1,8 @@
+Noticias destacadas de Hacker News
+Generado: 20/06/2026 06:00:11
+
+1. [I Stored a Website in a Favicon](https://www.timwehrle.de/blog/i-stored-a-website-in-a-favicon/) (150 pts)
+2. [Where to Find the Colors Your Screen Can't Show You](https://moultano.wordpress.com/2026/06/19/where-to-find-the-colors-your-screen-cant-show-you/) (146 pts)
+3. [Data Compression Explained (2012)](https://mattmahoney.net/dc/dce.html) (136 pts)
+4. [There are no instances in ATProto](https://overreacted.io/there-are-no-instances-in-atproto/) (455 pts)
+5. [Can you see three trees?](https://www.not-ship.com/can-you-see-three-trees/) (129 pts)

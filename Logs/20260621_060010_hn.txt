@@ -1,0 +1,8 @@
+Noticias destacadas de Hacker News
+Generado: 21/06/2026 06:00:10
+
+1. [Google Hits 50% IPv6](https://blog.apnic.net/2026/04/28/google-hits-50-ipv6/) (125 pts)
+2. [A 3D voxel game engine written in APL](https://github.com/namgyaaal/avoxelgame) (55 pts)
+3. [Developers don't understand CORS (2019)](https://fosterelli.co/developers-dont-understand-cors) (217 pts)
+4. [Zigzag Decoding with AVX-512](https://zeux.io/2026/06/17/zigzag-decoding-avx512/) (77 pts)
+5. [Loupe – A iOS app that raises awareness about what native apps can see](https://github.com/mysk-research/loupe) (310 pts)

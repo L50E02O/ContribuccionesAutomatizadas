@@ -1,0 +1,8 @@
+Noticias destacadas de Hacker News
+Generado: 22/06/2026 06:00:10
+
+1. [Deno Desktop](https://docs.deno.com/runtime/desktop/) (433 pts)
+2. [Help I accidentally a wigglegram](https://lmao.center/blog/wiggle-accidents/) (275 pts)
+3. [Did my old job only exist because of fraud?](https://david.newgas.net/did-my-old-job-only-exist-because-of-fraud/) (591 pts)
+4. [Apertus – Open Foundation Model for Sovereign AI](https://apertvs.ai/) (398 pts)
+5. [Munich 1991: The Roots of the Current AI Boom](https://people.idsia.ch/~juergen/ai-boom-roots-munich-1991.html) (81 pts)

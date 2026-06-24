@@ -1,0 +1,8 @@
+Noticias destacadas de Hacker News
+Generado: 24/06/2026 06:00:10
+
+1. [We're making Bunny DNS free: because a faster internet won't build itself](https://bunny.net/blog/were-making-bunny-dns-free/) (158 pts)
+2. [Vulnerability reports are not special anymore](https://words.filippo.io/vuln-reports/) (293 pts)
+3. [Raspberry Pi Pico W as USB Wi-Fi Adapter](https://gitlab.com/baiyibai/pico-usb-wifi) (150 pts)
+4. [Jerry's Map](http://www.jerrysmap.com/the-map) (481 pts)
+5. [In memory of the man who put red and green squiggles under words](https://devblogs.microsoft.com/oldnewthing/20260622-00/?p=112451) (407 pts)

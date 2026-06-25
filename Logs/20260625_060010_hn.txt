@@ -1,0 +1,8 @@
+Noticias destacadas de Hacker News
+Generado: 25/06/2026 06:00:10
+
+1. [Half-Life 2 in a Browser](https://hl2.slqnt.dev/) (278 pts)
+2. [Dolphin Emulator Progress Release 2606](https://dolphin-emu.org/blog/2026/06/25/dolphin-progress-report-release-2606/) (9 pts)
+3. [Anthropic says Alibaba illicitly extracted Claude AI model capabilities](https://www.reuters.com/world/china/anthropic-says-alibaba-illicitly-extracted-claude-ai-model-capabilities-2026-06-24/) (446 pts)
+4. [OpenAI unveils its first custom chip, built by Broadcom](https://techcrunch.com/2026/06/24/openai-unveils-its-first-custom-chip-built-by-broadcom/) (713 pts)
+5. [Cloudflare launched self-managed OAuth for all](https://blog.cloudflare.com/oauth-for-all/) (177 pts)

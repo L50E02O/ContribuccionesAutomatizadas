@@ -1,0 +1,8 @@
+Noticias destacadas de Hacker News
+Generado: 26/06/2026 06:00:09
+
+1. [We All Depend on Open Source. We Will Defend It Together](https://akrites.org/letter/) (163 pts)
+2. [Om Malik has died](https://om.co/2026/06/24/1966-2026/) (923 pts)
+3. [An entire Herculaneum scroll has been read for the first time](https://scrollprize.org/firstscroll) (1326 pts)
+4. [Libre Barcode Project](https://graphicore.github.io/librebarcode/) (166 pts)
+5. [What happened after 2k people tried to hack my AI assistant](https://www.fernandoi.cl/posts/hackmyclaw/) (181 pts)

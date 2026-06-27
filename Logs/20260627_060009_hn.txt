@@ -1,0 +1,8 @@
+Noticias destacadas de Hacker News
+Generado: 27/06/2026 06:00:09
+
+1. [DeepSeek open-sources inference optimizations with 60–85% faster generation [pdf]](https://github.com/deepseek-ai/DeepSpec/blob/main/DSpark_paper.pdf) (223 pts)
+2. [Fintech Engineering Handbook](https://w.pitula.me/fintech-engineering-handbook/) (22 pts)
+3. [Previewing GPT‑5.6 Sol: a next-generation model](https://openai.com/index/previewing-gpt-5-6-sol/) (1022 pts)
+4. [Linux on Older Hardware: The Complete Revival Guide](https://www.fosslinux.com/158206/linux-on-older-hardware-revival-guide.htm) (68 pts)
+5. [Long Wave radio era set to end with switch-off](https://www.economist.com/britain/2026/06/25/the-bbc-switches-off-its-oldest-service) (40 pts)

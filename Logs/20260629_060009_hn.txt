@@ -1,0 +1,8 @@
+Noticias destacadas de Hacker News
+Generado: 29/06/2026 06:00:09
+
+1. [HackerRank open sourced its ATS. My resume scored 90/100. Oh wait 74. No – 88](https://danunparsed.com/p/hackerrank-open-source-ats) (504 pts)
+2. [GLM 5.2 beats Claude in our benchmarks](https://semgrep.dev/blog/2026/we-have-mythos-at-home-glm-52-beats-claude-in-our-cyber-benchmarks/) (876 pts)
+3. [Pollen (CEO Negus-Fancey, CTO Wright) tried to remove article, and Google helped](https://blog.pragmaticengineer.com/pollen-tried-to-remove-my-article-about-callum-negus-fancey-and-google-is-assisting-to-it/) (150 pts)
+4. [Dissecting Apple's Sparse Image Format (ASIF)](https://schamper.dev/dissecting-apples-sparse-image-format-asif/) (87 pts)
+5. [NUMA: Cores, memory, and the distance between them](https://edera.dev/stories/numa-part-1-cores-memory-and-the-distance-between-them) (32 pts)

@@ -1,0 +1,8 @@
+Noticias destacadas de Hacker News
+Generado: 30/06/2026 06:00:10
+
+1. [Building a custom octocopter from scratch with no prior hardware experience](https://karolina.mgdubiel.com/drone/) (43 pts)
+2. [Open Source Low Tech](https://opensourcelowtech.org/) (280 pts)
+3. [Antares Achieves Criticality of Mark-0 Reactor](https://antaresindustries.com/updates/antares-achieves-criticality) (21 pts)
+4. [Qwen 3.6 27B is the sweet spot for local development](https://quesma.com/blog/qwen-36-is-awesome/) (952 pts)
+5. [European digital ID wallets are a gift to Google and Apple](https://waag.org/en/article/european-digital-id-wallets-are-gift-google-and-apple/) (5 pts)

@@ -1,0 +1,8 @@
+Noticias destacadas de Hacker News
+Generado: 01/07/2026 06:00:13
+
+1. [Asahi Linux 7.1 Progress Report](https://asahilinux.org/2026/06/progress-report-7-1/) (82 pts)
+2. [Claude Code is steganographically marking requests](https://thereallo.dev/blog/claude-code-prompt-steganography) (2089 pts)
+3. [Newly discovered spider builds spring loaded snare to catch ants](https://phys.org/news/2026-06-newly-australian-ballista-spider-snare.html) (58 pts)
+4. [Claude Sonnet 5](https://www.anthropic.com/news/claude-sonnet-5) (1144 pts)
+5. [ArXiv's Next Chapter](https://blog.arxiv.org/2026/06/30/arxivs-next-chapter/) (141 pts)

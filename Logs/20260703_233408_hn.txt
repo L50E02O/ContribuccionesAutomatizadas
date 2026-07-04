@@ -1,0 +1,8 @@
+Noticias destacadas de Hacker News
+Generado: 03/07/2026 23:34:08
+
+1. [Giant trees have no trouble pumping water to top branches: new research](https://news.exeter.ac.uk/faculty-of-environment-science-and-economy/giant-trees-have-no-trouble-pumping-water-to-top-branches/) (140 pts)
+2. [GLM5.2 on AMD MI355X at 2626 tok/s/node at over 2x lower cost than Blackwell](https://www.wafer.ai/blog/glm52-amd) (152 pts)
+3. [Leanstral 1.5: Proof abundance for all](https://mistral.ai/news/leanstral-1-5/) (131 pts)
+4. [Synthesis is harder than analysis](https://surfingcomplexity.blog/2026/07/03/synthesis-is-harder-than-analysis/) (18 pts)
+5. [MSI Center – How to gain SYSTEM privileges in seconds](https://mrbruh.com/msicenter/) (46 pts)

@@ -1,0 +1,8 @@
+Noticias destacadas de Hacker News
+Generado: 04/07/2026 06:00:17
+
+1. [The bottleneck might be the air in the room](https://blog.mikebowler.ca/2026/07/03/co2-and-decision-making/) (289 pts)
+2. [Astrophysicists Puzzle over Webb's New Universe](https://www.quantamagazine.org/astrophysicists-puzzle-over-webbs-new-universe-20260702/) (26 pts)
+3. [Mir Books – Books from the Soviet Era](https://mirtitles.org) (92 pts)
+4. [Performance per dollar is getting faster and cheaper](https://www.wafer.ai/blog/glm52-amd) (256 pts)
+5. [Agentic coding notes from Galapagos Island](https://danluu.com/ai-coding/#appendix-agentic-loops-and-writing-this-post) (101 pts)

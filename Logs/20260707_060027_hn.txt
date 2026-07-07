@@ -1,0 +1,8 @@
+Noticias destacadas de Hacker News
+Generado: 07/07/2026 06:00:27
+
+1. [OpenWrt One – Open Hardware Router](https://openwrt.org/toh/openwrt/one) (655 pts)
+2. [CoMaps – FOSS Offline Maps](https://www.comaps.app/) (594 pts)
+3. [GLM 5.2 and the coming AI margin collapse](https://martinalderson.com/posts/the-upcoming-ai-margin-collapse-part-1-glm-5-2/) (456 pts)
+4. [Dolosse – a South African invention used over the world](https://thisbugslife.com/2021/11/21/dolosse-a-south-african-invention-used-over-the-world/) (62 pts)
+5. [How to sequence your own DNA at home](https://bradleywoolf.com/links-1/sequencing-my-own-dna-at-home) (240 pts)

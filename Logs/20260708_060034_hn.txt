@@ -1,0 +1,8 @@
+Noticias destacadas de Hacker News
+Generado: 08/07/2026 06:00:34
+
+1. [Decoding the obfuscated bash script on a Uniqlo t-shirt](https://tris.sherliker.net/blog/obfuscated-self-evaluating-bash-script-by-cdn-akamai-being-supplied-to-consumers-via-retail-stores/) (219 pts)
+2. [GitLost: We Tricked GitHub's AI Agent into Leaking Private Repos](https://noma.security/blog/gitlost-how-we-tricked-githubs-ai-agent-into-leaking-private-repos/) (214 pts)
+3. [How to Build a Minimal ZFS NAS Without Synology, QNAP, TrueNAS (2024)](https://neil.computer/notes/how-to-setup-minimal-zfs-nas-without-truenas/) (207 pts)
+4. [Tenda firmware (multiple versions) contains hidden authentication backdoor](https://kb.cert.org/vuls/id/213560) (229 pts)
+5. [Geosql: A Claude/Codex skill for geospatial data](https://github.com/dekart-xyz/geosql) (14 pts)

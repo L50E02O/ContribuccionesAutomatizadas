@@ -1,0 +1,8 @@
+Noticias destacadas de Hacker News
+Generado: 10/07/2026 06:00:25
+
+1. [GPT-5.6](https://openai.com/index/gpt-5-6/) (1312 pts)
+2. [Show HN: Getting GLM 5.2 running on my slow computer](https://github.com/JustVugg/colibri) (706 pts)
+3. [In Emacs, Everything Looks Like a Service](http://yummymelon.com/devnull/in-emacs-everything-looks-like-a-service.html) (30 pts)
+4. [EU Parliament greenlights Chat Control 1.0](https://www.patrick-breyer.de/en/eu-parliament-greenlights-chat-control-1-0-breyer-our-children-lose-out/) (1420 pts)
+5. [Train sim created by just one person is being called the best ever made](https://kotaku.com/a-train-sim-created-by-just-one-person-is-being-called-the-best-ever-made-2000699429) (630 pts)

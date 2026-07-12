@@ -1,0 +1,8 @@
+Noticias destacadas de Hacker News
+Generado: 12/07/2026 06:00:25
+
+1. [Vint Cerf, a “father of the Internet”, is retiring](https://techcrunch.com/2026/06/30/the-father-of-the-internet-is-finally-retiring/) (93 pts)
+2. [Show HN: Mindwalk – Replay coding-agent sessions on a 3D map of your codebase](https://github.com/cosmtrek/mindwalk) (72 pts)
+3. [Mesh LLM: distributed AI computing on iroh](https://www.iroh.computer/blog/mesh-llm) (265 pts)
+4. [Protobuf-py: Protobuf for Python, without compromises](https://buf.build/blog/protobuf-py) (54 pts)
+5. [Text art tools](https://hlnet.notion.site/text-art-tools) (50 pts)

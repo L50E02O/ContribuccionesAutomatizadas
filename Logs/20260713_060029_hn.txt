@@ -1,0 +1,8 @@
+Noticias destacadas de Hacker News
+Generado: 13/07/2026 06:00:29
+
+1. [Zig Creator Calls Spade a Spade, Anthropic Blows Smoke](https://raymyers.org/post/zed-creator-calls-spade-a-spade/) (297 pts)
+2. [Interrail: 6,379Km and 13 Countries over 7 weeks](https://shkspr.mobi/blog/2026/07/another-ridiculous-interrail-holiday-6379km-and-13-countries-over-7-weeks/) (75 pts)
+3. [The social physics of conversation: Communication patterns matter](https://andiroberts.com/citizenship/the-social-physics-of-conversation-citizenship-leadership) (49 pts)
+4. [GhostLock, a stack-UAF that has existed in all Linux distributions for 15 years](https://nebusec.ai/research/ionstack-part-2/) (287 pts)
+5. [Beavis Ultrasound PnP ISA Sound Card Replica](https://github.com/schlae/BeavisUltrasound) (66 pts)

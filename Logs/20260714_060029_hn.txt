@@ -1,0 +1,8 @@
+Noticias destacadas de Hacker News
+Generado: 14/07/2026 06:00:29
+
+1. [Japan develops a method to recover up to 90% of lithium from used EV batteries](https://tech.supercarblondie.com/japan-recovers-up-to-90-of-lithium-from-used-ev-batteries/) (522 pts)
+2. [Alternative(s) to run CUDA on non-Nvidia hardware](https://www.hpcwire.com/2026/07/09/spectral-compute-aims-to-set-cuda-free-will-it-succeed/) (50 pts)
+3. [Australian energy retailers must provide three hours of free daytime electricity](https://lenergy.com.au/free-daytime-electricity-is-coming-heres-how-it-actually-works/) (119 pts)
+4. [The git history command](https://lalitm.com/post/git-history/) (322 pts)
+5. [Indian scientists produce most detailed 3D atlas of the human brainstem](https://www.bbc.com/news/articles/cg53l737v1qo) (64 pts)

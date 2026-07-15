@@ -1,0 +1,8 @@
+Noticias destacadas de Hacker News
+Generado: 15/07/2026 06:00:32
+
+1. [Jurassic Park computers in excruciating detail](https://fabiensanglard.net/jurrasic_park_computers/index.html) (501 pts)
+2. [Vancouver PD website features Quick Escape button that wipes itself from history](https://vpd.ca/) (279 pts)
+3. [Bonsai 27B: A 27B-Class model that runs on a phone](https://prismml.com/news/bonsai-27b) (609 pts)
+4. [TS-2026-009: Insecure argument handling in Tailscale SSH permitted root access](https://tailscale.com/security-bulletins) (159 pts)
+5. [Who's running all those tiny RPKI servers?](https://blog.apnic.net/2026/07/15/whos-running-all-those-tiny-rpki-servers/) (43 pts)

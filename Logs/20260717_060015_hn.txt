@@ -1,0 +1,8 @@
+Noticias destacadas de Hacker News
+Generado: 17/07/2026 06:00:15
+
+1. [EEG shows brain can simultaneous encode two speech streams](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3003876) (113 pts)
+2. [Kimi K3: Open Frontier Intelligence](https://www.kimi.com/blog/kimi-k3) (1677 pts)
+3. [Pebble Mega Update – July 2026](https://repebble.com/blog/pebble-mega-update-july-2026) (128 pts)
+4. [How Has Roman Concrete Lasted for Millennia? 1,900-Year-Old Latrine Offers Clues](https://www.smithsonianmag.com/smart-news/how-has-roman-concrete-lasted-for-millennia-a-1900-year-old-latrine-offers-new-clues-about-the-materials-impressive-durability-180989115/) (135 pts)
+5. [Microsoft Comic Chat is now open source](https://opensource.microsoft.com/blog/2026/07/16/microsoft-comic-chat-is-now-open-source/) (696 pts)

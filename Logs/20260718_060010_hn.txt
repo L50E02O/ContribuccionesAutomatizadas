@@ -1,0 +1,8 @@
+Noticias destacadas de Hacker News
+Generado: 18/07/2026 06:00:10
+
+1. [Regressive JPEGs](https://maurycyz.com/projects/bad_jpeg/) (386 pts)
+2. [AWS: Inaccurate Estimated Billing Data – $1.7 billion](https://news.ycombinator.com/item?id=48945241) (1205 pts)
+3. [Funny item co-occurrences in 3.2M Instacart orders](https://rogerdickey.com/funny-item-co-occurrences-in-3-million-instacart-orders/) (13 pts)
+4. [Thanks HN for 15 years of support and helping me find my life's work](https://news.ycombinator.com/item?id=48949551) (620 pts)
+5. [Porting nanochat to a TPU: what carries over from PyTorch, and what breaks](https://github.com/tucan9389/nanochat-jax/discussions/1) (37 pts)

@@ -1,0 +1,8 @@
+Noticias destacadas de Hacker News
+Generado: 19/07/2026 06:00:10
+
+1. [Claude Code uses Bun written in Rust now](https://simonwillison.net/2026/Jul/19/claude-code-in-bun-in-rust/) (52 pts)
+2. [Qwen 3.8 Max Preview](https://www.qwencloud.com/pricing/token-plan) (26 pts)
+3. [Qwen3.8 is launching and going open-weight soon](https://twitter.com/Alibaba_Qwen/status/2078759124914098291) (204 pts)
+4. [Transcribe.cpp](https://workshop.cjpais.com/projects/transcribe-cpp) (550 pts)
+5. [Blender 5.2 LTS](https://www.blender.org/download/releases/5-2-lts/) (20 pts)

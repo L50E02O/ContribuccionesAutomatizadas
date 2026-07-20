@@ -1,0 +1,8 @@
+Noticias destacadas de Hacker News
+Generado: 20/07/2026 06:00:10
+
+1. [Exploit brokers pay $500k for WordPress RCEs. I found one with GPT5.6 and $25](https://slcyber.io/research-center/exploit-brokers-pay-500000-for-a-wordpress-rce-i-found-one-with-gpt5-6/) (122 pts)
+2. [Show HN: I replaced a $120k bowling center system with $1,600 in ESP32s](https://news.ycombinator.com/item?id=48968606) (2378 pts)
+3. [Moonshine: Lets you stream games from your PC to any device running Moonlight](https://github.com/hgaiser/moonshine) (202 pts)
+4. [Sealed tomb filled with paintings and inscriptions discovered in Egypt](https://www.labrujulaverde.com/en/2026/07/sealed-tomb-of-a-high-official-or-priest-filled-with-paintings-and-inscriptions-discovered-on-luxors-west-bank/) (50 pts)
+5. [LoRA Speedrun – a public wall-clock leaderboard for fine-tuning techniques](https://github.com/Saivineeth147/lora-speedrun) (88 pts)

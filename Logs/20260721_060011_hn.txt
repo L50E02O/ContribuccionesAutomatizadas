@@ -1,0 +1,8 @@
+Noticias destacadas de Hacker News
+Generado: 21/07/2026 06:00:11
+
+1. [Qwen-Image-3.0: Rich Content, Authentic Details, Deep Knowledge](https://qwen.ai/blog?id=qwen-image-3.0) (123 pts)
+2. [Incremental – A library for incremental computations](https://github.com/janestreet/incremental) (224 pts)
+3. [Who's afraid of Chinese models?](https://stratechery.com/2026/whos-afraid-of-chinese-models/) (681 pts)
+4. [Arduino Launches Plug-and-Play Modules for Long-Range Sensor Projects](https://www.allaboutcircuits.com/news/arduino-launches-plug-and-play-modules-for-long-range-sensor-projects/) (23 pts)
+5. [Linux kernel will support $ORIGIN, sort of](https://fzakaria.com/2026/07/20/linux-kernel-will-support-origin-sort-of) (59 pts)

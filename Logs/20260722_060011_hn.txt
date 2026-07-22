@@ -1,0 +1,8 @@
+Noticias destacadas de Hacker News
+Generado: 22/07/2026 06:00:11
+
+1. [OpenAI and Hugging Face address security incident during model evaluation](https://openai.com/index/hugging-face-model-evaluation-security-incident/) (1208 pts)
+2. [Kimi K3 Is Competitive with Fable; Kimi K3 and Fable Is SoTA](https://fireworks.ai/blog/kimik3-fable) (666 pts)
+3. [Intel Starts Shipping High-NA EUV Silicon](https://morethanmoore.substack.com/p/intel-starts-shipping-high-na-euv) (95 pts)
+4. [Introduction to Formal Verification with Lean Part 1](https://hashcloak.com/blog/tutorial-introduction-to-formal-verification-with-lean-(part-1)) (36 pts)
+5. [Original Apollo 11 Guidance Computer source code for command and lunar modules](https://github.com/chrislgarry/Apollo-11) (87 pts)

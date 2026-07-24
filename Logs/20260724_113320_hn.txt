@@ -1,0 +1,8 @@
+Noticias destacadas de Hacker News
+Generado: 24/07/2026 11:33:20
+
+1. [My security camera shipped a GitHub admin token in its login page](https://hhh.hn/hanwha-github-token/) (284 pts)
+2. [India's first privately-developed rocket reaches orbit on dramatic debut launch](https://arstechnica.com/space/2026/07/indias-first-privately-developed-rocket-reaches-orbit-on-dramatic-debut-launch/) (233 pts)
+3. [Half-Life 2 running natively on HaikuOS](https://discuss.haiku-os.org/t/haiku-nvidia-porting-nvidia-driver-for-turing-gpus/16520?page=18) (99 pts)
+4. [The front end framework for correctness: built on Effect, architected like Elm](https://foldkit.dev/) (24 pts)
+5. [Flux 3 X Mimic: The Next Generation of Video-Action Models](https://bfl.ai/blog/flux-3-mimic) (256 pts)

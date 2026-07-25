@@ -1,0 +1,8 @@
+Noticias destacadas de Hacker News
+Generado: 25/07/2026 06:00:10
+
+1. [Android May Soon Restrict On-Device ADB](https://kitsumed.github.io/blog/posts/android-may-soon-restrict-on-device-adb/) (264 pts)
+2. [Claude Opus 5](https://www.anthropic.com/news/claude-opus-5) (1578 pts)
+3. [Hannah Fry Wins the Leelavati Prize in 2026 for Mathematics Outreach](https://www.maths.cam.ac.uk/features/professor-hannah-fry-wins-leelavati-prize) (256 pts)
+4. [ARC-AGI Leaderboard](https://arcprize.org/leaderboard) (95 pts)
+5. [Building a Tiny 3D Renderer for a Tiny Handheld](https://saffroncr.itch.io/katavatis/devlog/1534514/building-a-tiny-3d-renderer-for-a-tiny-handheld) (49 pts)

@@ -1,0 +1,8 @@
+Noticias destacadas de Hacker News
+Generado: 26/07/2026 06:00:10
+
+1. [Ruff v0.16.0 – Significant new updates – 413 default rules up from 59](https://astral.sh/blog/ruff-v0.16.0) (68 pts)
+2. [Elevated Errors for Opus 5](https://status.claude.com/incidents/zftg3gqkmv18) (24 pts)
+3. [A shell colon does nothing. Use it anyway](https://refp.se/articles/your-shell-and-the-magic-colon) (218 pts)
+4. [GrapheneOS protections against data extraction from locked devices](https://discuss.grapheneos.org/d/40700-grapheneos-protections-against-data-extraction-from-locked-devices) (93 pts)
+5. [An ESP32 based plane radar for my desk](https://blog.ktz.me/esp32-plane-radar/) (163 pts)

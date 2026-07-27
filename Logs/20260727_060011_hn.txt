@@ -1,0 +1,8 @@
+Noticias destacadas de Hacker News
+Generado: 27/07/2026 06:00:11
+
+1. [Kimi-K3 Releases on HuggingFace 7/27](https://huggingface.co/moonshotai/Kimi-K3) (375 pts)
+2. [PGSimCity - How PostgreSQL Works](https://nikolays.github.io/PGSimCity/) (652 pts)
+3. [Show HN: Physically accurate black hole you can put in your room](https://blackhole.plav.in) (333 pts)
+4. [Magnolias Are So Old That They're Pollinated by Beetles, Not Bees](https://mymodernmet.com/magnolia-ancient-flowers-beetles/) (42 pts)
+5. [Scriptc by Vercel: TypeScript-to-Native compiler, no JavaScript engine in binary](https://github.com/vercel-labs/scriptc) (200 pts)

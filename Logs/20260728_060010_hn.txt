@@ -1,0 +1,8 @@
+Noticias destacadas de Hacker News
+Generado: 28/07/2026 06:00:10
+
+1. [7.1 Earthquake in Japan](https://www.data.jma.go.jp/multi/quake/quake_detail.html?eventID=20260728163528&lang=en) (252 pts)
+2. [What Even Are Microservices?](https://var0.xyz/posts/what-even-are-microservices.html) (26 pts)
+3. [About the security content of macOS Tahoe 26.6](https://support.apple.com/en-us/128067) (39 pts)
+4. [Our position on open-weights models](https://www.anthropic.com/news/position-open-weights-models) (943 pts)
+5. [Google's Beyond Zero: Enterprise Security for the AI Era](https://spawn-queue.acm.org/doi/10.1145/3819083) (8 pts)

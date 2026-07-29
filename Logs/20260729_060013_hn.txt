@@ -1,0 +1,8 @@
+Noticias destacadas de Hacker News
+Generado: 29/07/2026 06:00:13
+
+1. [More Tailscale tricks for your jailbroken Kindle](https://tailscale.com/blog/jailbroken-kindle-proxy-tun-modes) (210 pts)
+2. [User Interfaces of the Demo Scene](https://www.datagubbe.se/scenegui/) (222 pts)
+3. [SpecForge – A Platform for Authoring Formal Specifications](https://docs.imiron.io/v/0.5.10/en/tour.html) (6 pts)
+4. [SQLite in Production: Optimizing WAL Mode, Concurrency, and VFS Layers](https://micrologics.org/blog/sqlite-in-production-optimizing-wal-mode-concurrency-and-vfs-layers-for-low-latency-app-servers) (77 pts)
+5. [Lisp moving Forth moving Lisp](https://letoverlambda.com/textmode.cl/guest/chap8.html) (32 pts)

@@ -1,0 +1,8 @@
+Noticias destacadas de Hacker News
+Generado: 29/10/2026 06:00:14
+
+1. [Qwenputer: A functioning, deterministic RISC-V CPU inside Qwen3.5](https://divagr.com/blog/qwenputer) (493 pts)
+2. [Zero click, silent, remote Android DoS](https://smsofdeath.com/) (106 pts)
+3. [Why is this fingerprinting script creating bioweapons?](https://nullpt.rs/fingerprinting-bioweapons) (1268 pts)
+4. [Getting debug access on a Brother printer over Telnet](https://inventor7777.github.io/blog/2026/10/22/debug-access-on-brother/) (59 pts)
+5. [Forging a Microsoft Edge Full Chain with Logic Bugs Only](https://blog.orange.tw/posts/2026-10-the-last-proof-of-human-craft-browser-full-chain/) (74 pts)

@@ -1,0 +1,8 @@
+Noticias destacadas de Hacker News
+Generado: 30/10/2026 06:00:14
+
+1. [Binance-hacker-1029 – $5.6B stolen from Binance](https://arkm.com/explorer/entity/21a94755-f604-45e5-9501-6542e23005e8) (1409 pts)
+2. [We're releasing the weights of Mistral Large 4](https://mistral.ai/news/mistral-large-4-oss/) (1506 pts)
+3. [How Do You Take a Picture of a Black Hole?](https://www.quantamagazine.org/how-do-you-take-a-picture-of-a-black-hole-20261029/) (11 pts)
+4. [Gilgamesh by Simon Armitage review – an ancient epic is brilliantly translated](https://www.theguardian.com/books/2026/oct/20/gilgamesh-by-simon-armitage-review-an-ancient-epic-is-brilliantly-translated-for-our-times) (45 pts)
+5. [Cuis: The Modern Smalltalk-80](https://cuis.st/) (126 pts)

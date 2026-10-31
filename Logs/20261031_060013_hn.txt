@@ -1,0 +1,8 @@
+Noticias destacadas de Hacker News
+Generado: 31/10/2026 06:00:13
+
+1. [Serbia just elected the world's brainiest parliament](https://www.science.org/content/article/serbia-just-elected-world-s-brainiest-parliament) (84 pts)
+2. [Switch Lowering in GCC](https://xoranth.net/gcc-switch/) (67 pts)
+3. [Digital Minimalism](https://vitalik.eth.limo/general/2026/10/31/digital_minimalism.html) (62 pts)
+4. [Show HN: Marelleo, an open-source story box I built for my kids using ESP32](https://zebra.rodeo/en/blog/marelleo/) (68 pts)
+5. [My favourite PowerMac is a Nintendo Wii](https://virtuallyfun.com/2026/10/29/my-favourite-powermac-is-a-nintendo-wii/) (311 pts)

@@ -1,0 +1,8 @@
+Noticias destacadas de Hacker News
+Generado: 01/11/2026 06:00:12
+
+1. [HackerTube: YouTube built from videos recommended by HN](https://karpathy.bearblog.dev/hacker-tube/) (1384 pts)
+2. [No AI, 52 min. Build all Linux Files utils in C by Hand [video]](https://www.youtube.com/watch?v=gQRmSlcTq9c) (34 pts)
+3. [An Italian farmer found some unknown seeds in his attic and planted them](https://www.smithsonianmag.com/science-nature/italian-farmer-found-unknown-seeds-attic-with-nothing-lose-planted-them-result-biblical-180989644/) (466 pts)
+4. [A tiny Pacific country rolls out universal basic income](https://www.economist.com/asia/2026/10/29/a-tiny-pacific-country-rolls-out-universal-basic-income) (7 pts)
+5. [Brazilian Court Sanctions Lawyers for Prompt Injection in Court Filing](https://jetstream.security/insights/brazilian-court-sanctions-prompt-injection-filing/) (134 pts)

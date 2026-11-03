@@ -1,0 +1,8 @@
+Noticias destacadas de Hacker News
+Generado: 03/11/2026 06:00:13
+
+1. [Astra can read and write weights to improve Qwen](https://rikiyat.github.io/blog/weight-space-programming/) (2688 pts)
+2. [Nvidia – open-source auto-ontology](https://github.com/NVIDIA/auto-ontology) (79 pts)
+3. [Toit v2.0.0](https://toit.io/blog/toit-v2-0-0/) (89 pts)
+4. [Show HN: Hacker Times, a New York Times-inspired version of Hacker News](https://hackertimes.ca/) (293 pts)
+5. [DiscImageStudio: burn visible artwork onto CDs, DVDs and Blu-ray discs](https://github.com/JiaFeiMiao-K-Cat/DiscImageStudio) (226 pts)

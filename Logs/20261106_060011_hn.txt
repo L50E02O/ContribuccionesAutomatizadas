@@ -1,0 +1,8 @@
+Noticias destacadas de Hacker News
+Generado: 06/11/2026 06:00:11
+
+1. [Blender's UI and Runtime: Much Faster Than GPUI](https://github.com/ppmpreetham/BUI) (204 pts)
+2. [Claude Code sends your email address to websites](https://github.com/anthropics/claude-code/issues/107757) (1183 pts)
+3. [Ants trapped for years in Soviet bunker; survival by cannibalism](https://jhr.pensoft.net/articles.php?id=9096) (19 pts)
+4. [Dutch 'idealist' bank ASN blocks non-Google Android, including GrapheneOS](https://github.com/PrivSec-dev/banking-apps-compat-report/issues/105) (42 pts)
+5. [Kugelblitz – Mac-Native Google Earth Alternative](https://apps.metaebene.me/en/kugelblitz) (82 pts)

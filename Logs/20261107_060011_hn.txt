@@ -1,0 +1,8 @@
+Noticias destacadas de Hacker News
+Generado: 07/11/2026 06:00:11
+
+1. [Libghostty 1.0](https://mitchellh.com/writing/libghostty-1-0) (677 pts)
+2. [Upload Your RAM](https://uploadyourram.org) (19 pts)
+3. [A barbarian tribe's mythic origin story is true, ancient DNA reveals](https://www.science.org/content/article/barbarian-tribe-s-mythic-origin-story-true-ancient-dna-reveals) (113 pts)
+4. [A Jev that can ask Opus for help gives Opus accuracy at 4x lower cost](https://hightouch.com/blog/llm-judges-identity-resolution) (488 pts)
+5. [Tesla to wind down Cybertruck production](https://www.nbcnews.com/tech/tech-news/tesla-wind-cybertruck-production-years-poor-sales-markets-rcna607817) (1022 pts)

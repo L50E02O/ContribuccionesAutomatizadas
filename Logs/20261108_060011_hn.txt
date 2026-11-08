@@ -1,0 +1,8 @@
+Noticias destacadas de Hacker News
+Generado: 08/11/2026 06:00:11
+
+1. [Agent memory needs its OpenTelemetry moment](https://www.lorekit.io/blog/open-agent-memory-format) (43 pts)
+2. [Goodbye Claude, Hello Pi](https://caleb.software/posts/claude-to-pi.html) (338 pts)
+3. [Clj.rs – a Clojure dialect implemented in Rust](https://clj.rs/) (65 pts)
+4. [GitHub Down Again?](https://github.com/torvalds/linux) (72 pts)
+5. [What I run on my $10 USD OpenStick homelab](https://blog.bosscher.ch/posts/openstick/) (594 pts)

@@ -1,0 +1,8 @@
+Noticias destacadas de Hacker News
+Generado: 10/11/2026 06:00:11
+
+1. [Amazon saves millions by replacing Sonnet 4.6 with Strands Decider](https://strandsagents.com/blog/amazon-saves-millions-replacing-sonnet-with-strands-decider/) (314 pts)
+2. [Claude Fable 5.2 and Mythos 5.2](https://www.anthropic.com/claude-fable-and-mythos-5-2) (627 pts)
+3. [Queens Public library under ransomware attack e-borrowing suspended](https://connect.queenslibrary.org/) (33 pts)
+4. [USPS now offers official ZIP Code boundary polygons](https://postalpro.usps.com/zcb) (624 pts)
+5. [Your TV can see through walls](https://maurycyz.com/projects/fading/) (129 pts)

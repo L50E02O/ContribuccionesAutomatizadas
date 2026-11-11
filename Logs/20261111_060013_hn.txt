@@ -1,0 +1,8 @@
+Noticias destacadas de Hacker News
+Generado: 11/11/2026 06:00:13
+
+1. [Protecting SSH Keys with macOS Secure Enclave](https://gatezh.com/posts/macos-secure-enclave-ssh-keys/) (214 pts)
+2. [Smart home devices should work without the internet](https://docodethatmatters.com/home-automation-overnight-success/) (975 pts)
+3. [.name Grandfathered](https://neil.fraser.name/news/2026/11/10/) (856 pts)
+4. [Scion is back and is going to sell a kei truck in America](https://www.theautopian.com/scion-is-back-and-its-going-to-sell-a-freaking-kei-truck-in-america/) (481 pts)
+5. [Plane lifted into back garden as bunker takes shape](https://www.bbc.co.uk/news/articles/cqkgjv4pj023o) (18 pts)

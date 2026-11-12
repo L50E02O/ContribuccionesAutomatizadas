@@ -1,0 +1,8 @@
+Noticias destacadas de Hacker News
+Generado: 12/11/2026 06:00:11
+
+1. [A live tree of systemd jobs on the boot console](https://codeberg.org/wvhulle/bootvine) (91 pts)
+2. [Jane Street: Socratic Tutor](https://github.com/janestreet/agent_skills/blob/master/socratic-tutor/SKILL.md) (249 pts)
+3. [Tim Peters has died](https://discuss.python.org/t/in-memoriam-tim-peters-1952-2026/110028) (1228 pts)
+4. [Why Writing Correct Software Is Hard](https://pron.github.io/posts/correctness-and-complexity) (9 pts)
+5. [93% of paint splatters are valid Perl programs (2019)](https://www.mcmillen.dev/sigbovik/) (444 pts)

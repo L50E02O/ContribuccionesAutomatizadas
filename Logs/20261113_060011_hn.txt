@@ -1,0 +1,8 @@
+Noticias destacadas de Hacker News
+Generado: 13/11/2026 06:00:11
+
+1. [Elevated errors on claude.ai, Claude Code, and platform.claude.com](https://status.claude.com/incidents/nn11wk485zfn) (134 pts)
+2. [Jensen Huang resigns](https://apnews.com/article/nvidia-megaspeed-china-singapore-huang-5403f152a601cf82ce939f1d24fffa0f) (3597 pts)
+3. [IceWM](https://ice-wm.org/) (194 pts)
+4. [The Dawn of the Data Intelligence Engineer](https://motherduck.com/blog/the-data-intelligence-engineer/) (32 pts)
+5. [Rust 1.100](https://blog.rust-lang.org/2026/11/12/Rust-1.100.0/) (700 pts)

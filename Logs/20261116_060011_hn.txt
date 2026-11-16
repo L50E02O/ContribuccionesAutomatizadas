@@ -1,0 +1,8 @@
+Noticias destacadas de Hacker News
+Generado: 16/11/2026 06:00:11
+
+1. [How to make almost anything](https://pub.cba.mit.edu/863.26/site/) (323 pts)
+2. [Universal XSS in uBlock Origin from website-driven element picker](https://iter.ca/post/ubo-uxss/) (394 pts)
+3. [Researchers track whole body movement with just a smartwatch](https://news.cornell.edu/stories/2026/11/researchers-track-whole-body-movement-just-smartwatch) (50 pts)
+4. [Qwen4-Max](https://qwen.ai/blog?id=qwen4-max) (552 pts)
+5. [Old Bitly links are being hijacked](https://ransomnews.com/burger-king-tweet-bitly-link-hijack-2026/) (298 pts)

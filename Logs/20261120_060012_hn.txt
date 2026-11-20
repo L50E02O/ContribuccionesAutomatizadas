@@ -1,0 +1,8 @@
+Noticias destacadas de Hacker News
+Generado: 20/11/2026 06:00:12
+
+1. [Frostbite: A new CPU architecture discovered, designed and verified by AI](https://architectlabs.com/blog/frostbite) (61 pts)
+2. [OpenSSL: Buffer overflow in EVP_EncodeBlock() (CVE-2026-121481, CVSS 9.8)](https://github.com/openssl/openssl/pull/33652) (268 pts)
+3. [The Strongest Sokoban Solver](https://healeycodes.com/introducing-the-worlds-strongest-sokoban-solver) (62 pts)
+4. [µ-Wire – USB on an ATtiny 10](https://cpldcpu.com/2014/03/19/%c2%b5-wire-usb-on-an-attiny-10/) (38 pts)
+5. [FFmpeg 9.1 'Gauss'](https://ffmpeg.org/download.html#release_9.1) (151 pts)

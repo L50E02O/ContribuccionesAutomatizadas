@@ -1,0 +1,8 @@
+Noticias destacadas de Hacker News
+Generado: 21/11/2026 06:00:11
+
+1. [Hurried Announcement: Alessandro Masullo GRH](https://math216.wordpress.com/2026/11/20/hurried-announcement-alessandro-masullo-grh/) (2105 pts)
+2. [Levent Alpöge claims proof of the Generalized Riemann Hypothesis [pdf]](https://alpo.ge/remark.pdf) (2657 pts)
+3. [Inkling 2 Mini](https://thinkingmachines.ai/news/inkling-2-mini/) (1026 pts)
+4. [ClawDOS – An AI coding agent for DOS](http://ricapar.net/ClawDOS/) (71 pts)
+5. [We promoted developers into architects without informing them](https://manidoraisamy.com/developer-to-architect.html) (444 pts)

@@ -1,0 +1,8 @@
+Noticias destacadas de Hacker News
+Generado: 24/11/2026 06:00:12
+
+1. [2035 Came Early](https://fzakaria.com/2026/11/23/2035-came-early) (278 pts)
+2. [Ladybird is now in alpha](https://ladybird.org/posts/alpha/) (2009 pts)
+3. [Stalwart is now a drop-in replacement for Microsoft Exchange](https://stalw.art/blog/microsoft-exchange-replacement/) (490 pts)
+4. [AMD EPYC Zen 6 vs. Zen 1 Performance: 12.1x Geo Mean in Less Than 10 Years](https://www.phoronix.com/review/amd-epyc-9006-7601) (102 pts)
+5. [Nvidia Reinstates Jensen Huang as CEO](https://www.cnbc.com/2026/11/23/nvidia-jensen-huang-ceo.html) (2599 pts)

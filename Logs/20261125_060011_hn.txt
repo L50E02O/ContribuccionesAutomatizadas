@@ -1,0 +1,8 @@
+Noticias destacadas de Hacker News
+Generado: 25/11/2026 06:00:11
+
+1. [Matrix Multiplication is Θ(n^2.25) [pdf]](https://github.com/openai/math/blob/main/preprints/The-matrix-multiplication-exponent-is-nine-fourths-November-24-2026/paper.pdf) (668 pts)
+2. [Button Sounds – collection of professionally-recorded button clicks and presses](https://buttons.joshwcomeau.com/) (406 pts)
+3. [Models Can Communicate via Inference Servers Despite Being Sandboxed](https://www.lesswrong.com/posts/7wzWuLP3HhyBLmKfo/models-can-communicate-via-inference-servers-despite-being) (249 pts)
+4. [Show HN: Old Nvidia and ATI tech demos, running again in the browser](https://gpu-demo-gallery.pages.dev/) (141 pts)
+5. [Bypassing iOS Safari's 60 FPS Limit to Build Web Applications That Feel Native](https://rida.dev/blog/bypassing-ios-safari-60-fps-limit) (218 pts)

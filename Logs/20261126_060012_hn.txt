@@ -1,0 +1,8 @@
+Noticias destacadas de Hacker News
+Generado: 26/11/2026 06:00:12
+
+1. [Holy shit holy shit holy shit holy shit: The magnitude of what’s now happening](https://scottaaronson.blog/?p=10379) (1584 pts)
+2. [Intel One Mono font](https://github.com/intel/intel-one-mono) (24 pts)
+3. [1Password Security Incident](https://1password.com/blog/update-on-nov-2026-security-incident) (1451 pts)
+4. [Moat: Your OpenRouter Replacement](https://commandcode.ai/moat) (78 pts)
+5. [Lions' Commentary on Unix: Why It Was Secretly Copied for 20 Years](https://fosscomics.com/posts/17.%20Lions%27%20Commentary%20on%20Unix/) (110 pts)

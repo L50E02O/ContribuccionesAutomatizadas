@@ -1,0 +1,8 @@
+Noticias destacadas de Hacker News
+Generado: 27/11/2026 06:00:14
+
+1. [The group chat where your AI talks behind your back](https://construct22.com/) (279 pts)
+2. [AI made self-hosting fun again](https://janlukas.blog/posts/ai-self-hosting) (733 pts)
+3. [YouTube Ad Punisher – Auto-reloads YouTube pages when an ad plays](https://github.com/antonpictures/youtube-punisher) (421 pts)
+4. [Kamil Khan Mumtaz: Pakistani architect, admired at home, almost invisible abroad](https://worksinprogress.co/issue/the-greatest-architect-youve-never-heard-of-is-in-pakistan/) (375 pts)
+5. [AMD-specific fork of llama.cpp](https://devnull.land/amd-specific-llama-cpp) (367 pts)

@@ -1,0 +1,8 @@
+Noticias destacadas de Hacker News
+Generado: 28/11/2026 06:00:12
+
+1. [Unkernel: Real Linux kernel, compiled to WebAssembly](https://unkernel.dev) (348 pts)
+2. [Loom seamlessly combines weaving, knitting and braiding](https://news.cornell.edu/stories/2026/11/loom-seamlessly-combines-weaving-knitting-and-braiding) (133 pts)
+3. [Google's DeepCrossAttention achieves comparable model quality up to 3x faster](https://research.google/blog/supercharging-transformer-residual-connections/) (416 pts)
+4. [The Balatro Timeline](https://localthunk.com/blog/balatro-timeline-3aarh) (385 pts)
+5. [Knuth: Moratorium on Error Reports](https://www-cs-faculty.stanford.edu/~knuth/moratorium.html) (119 pts)
